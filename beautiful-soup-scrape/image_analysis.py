@@ -80,4 +80,4 @@ def scrape_fashion_looks(input_csv):
     print(f"✅ Scraping & AI analysis complete! Data saved in `{OUTPUT_CSV}`")
 
 # ✅ Run the function
-scrape_fashion_looks("formatted_vogue_fashion_shows.csv")
+scrape_fashion_looks("tidy_v1.csv")
