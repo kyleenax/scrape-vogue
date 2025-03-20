@@ -2,7 +2,9 @@ from playwright.sync_api import sync_playwright
 import pandas as pd
 import os
 import time
-import openai  # Ensure you have OpenAI API access
+from openai import OpenAI
+
+client = OpenAI()  # Ensure you have OpenAI API access
 
 # ✅ OpenAI API Key (Replace with your own)
 OPENAI_API_KEY = "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"
@@ -14,19 +16,17 @@ OUTPUT_CSV = "fashion_looks_with_descriptions.csv"
 def generate_description(image_url):
     """Send an image URL to ChatGPT for a fashion look description."""
     prompt = f"Describe the fashion look in this image: {image_url}. Focus on color, style, texture, and overall aesthetic."
-    
-    response = openai.ChatCompletion.create(
-        model="gpt-4-vision-preview",
-        messages=[{"role": "user", "content": prompt}],
-        api_key=OPENAI_API_KEY
-    )
-    
-    return response["choices"][0]["message"]["content"].strip()
+
+    response = client.chat.completions.create(model="gpt-4-vision-preview",
+    messages=[{"role": "user", "content": prompt}],
+    api_key=OPENAI_API_KEY)
+
+    return response.choices[0].message.content.strip()
 
 # ✅ Function to scrape fashion images and generate descriptions
 def scrape_fashion_looks(input_csv):
     """Scrape all images from each brand's collection page and analyze with ChatGPT."""
-    
+
     df = pd.read_csv(input_csv)
     look_data = []
 

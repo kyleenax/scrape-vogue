@@ -54,4 +54,4 @@ def append_brands_to_urls(input_csv, output_csv):
     print(f"✅ Reformatted data saved to {output_csv}")
 
 # ✅ Run the function
-append_brands_to_urls("v2.csv", "tidy_v2.csv")
+append_brands_to_urls("v4.csv", "tidy_v4.csv")
