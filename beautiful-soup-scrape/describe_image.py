@@ -1,20 +1,24 @@
-
+import time
+import requests
+import re
 import os
 import csv
-import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 from PIL import Image
-from io import BytesIO
+from io import BytesIO, StringIO
 from openai import OpenAI
 
-client = OpenAI(api_key="")
+client = OpenAI(api_key="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"
+)  # Replace with your actual key
 
+# Create output directory if it doesn't exist
+output_dir = "brand_csvs"
+os.makedirs(output_dir, exist_ok=True)
 
-# Set OpenAI API key (or use another vision API)
-  # Replace with your actual API key
+def sanitize_filename(url):
+    return re.sub(r'[^\w\-_]', '_', url)
 
-# Function to scrape images from a given Vogue webpage
 def scrape_images_from_url(url):
     try:
         response = requests.get(url, headers={"User-Agent": "Mozilla/5.0"})
@@ -37,68 +41,100 @@ def scrape_images_from_url(url):
         print(f"Error scraping {url}: {e}")
         return []
 
-# Function to analyze image using OpenAI Vision
-def analyze_image(image_url):
+def analyze_image_as_csv(image_url, source_url):
     try:
         response = requests.get(image_url)
         img = Image.open(BytesIO(response.content))
 
-        # Call OpenAI Vision API (or another vision model)
-        response = client.chat.completions.create(model="gpt-4-vision-preview",
-        messages=[
-            {
-                "role": "system",
-                "content": "Analyze the clothing in the image and provide details about color, fabric, and clothing type."
-            },
-            {
-                "role": "user",
-                "content": [
-                    {"type": "image_url", "image_url": image_url},
-                    {"type": "text", "text": "Describe the clothing in this image, focusing on color, fabric, and type of clothing."}
-                ]
-            }
-        ])
+        for attempt in range(3):  # Retry mechanism
+            try:
+                response = client.chat.completions.create(
+                    model="gpt-4o",
+                    messages=[
+                        {
+                            "role": "system",
+                            "content": (
+                                "You are a fashion analyst. Given an image of a fashion look, respond ONLY with one row of CSV (no preamble, no extra text). "
+                                "The CSV should have the following headers: Website, Look Number, Designer, Season, Gender Presentation, Garments, "
+                                "Accessories, Silhouette, Style Keywords, Notes. Each field should be concise and consistent. Garments should combine type, color, and texture. "
+                                "Wrap all comma-containing fields in double quotes. Do not include an Image URL column. Do not use markdown or code blocks."
+                            )
 
-        description = response.choices[0].message.content
-        return description
+                        },
+                        {
+                            "role": "user",
+                            "content": [
+                                {"type": "image_url", "image_url": {"url": image_url}},
+                                {"type": "text", "text": f"Analyze this fashion look from {source_url} and return one single row of CSV including the headers."}
+                            ]
+                        }
+                    ],
+                    temperature=0.3
+                )
+
+                return response.choices[0].message.content.strip()
+
+            except Exception as e:
+                if "429 Too Many Requests" in str(e):
+                    wait_time = 10 * (attempt + 1)
+                    print(f"Rate limit exceeded. Retrying in {wait_time} seconds...")
+                    time.sleep(wait_time)
+                else:
+                    print(f"Error analyzing image {image_url}: {e}")
+                    return None
 
     except Exception as e:
         print(f"Error analyzing image {image_url}: {e}")
         return None
 
-# Function to extract key attributes from AI-generated descriptions
-def extract_attributes(description):
-    color, fabric, clothing_type = "Unknown", "Unknown", "Unknown"
-
-    if "color" in description.lower():
-        color = description.split("color:")[1].split(".")[0].strip()
-    if "fabric" in description.lower():
-        fabric = description.split("fabric:")[1].split(".")[0].strip()
-    if "clothing type" in description.lower():
-        clothing_type = description.split("clothing type:")[1].split(".")[0].strip()
-
-    return color, fabric, clothing_type
-
-# Read CSV file containing URLs
-input_csv = "tidy_v1.csv"  # Change to your actual file
-output_csv = "vogue_image_descriptions1.csv"
-
+# Read input CSV file containing Vogue URLs
+input_csv = "tidy_v1.csv"
 df = pd.read_csv(input_csv)
-image_data = []
 
 for index, row in df.iterrows():
-    url = row['url']  # Adjust column name if different
-    print(f"Processing: {url}")
+    url = row['url']
+    print(f"\nProcessing: {url}")
+
+    brand_name = sanitize_filename(url)
+    brand_csv_path = os.path.join(output_dir, f"{brand_name}.csv")
 
     image_urls = scrape_images_from_url(url)
+    image_data = []
+
     for image_url in image_urls:
-        description = analyze_image(image_url)
+        if "undefined" in image_url or "limit/undefined" in image_url:
+            print(f"Skipping invalid image URL: {image_url}")
+            continue
+
+        description = analyze_image_as_csv(image_url, url)
         if description:
-            color, fabric, clothing_type = extract_attributes(description)
-            image_data.append([url, image_url, description, color, fabric, clothing_type])
+            description_clean = description.strip("`").strip()
+    try:
+        csv_buffer = StringIO(description_clean)
+        reader = csv.reader(csv_buffer)
+        headers = next(reader)
+        values = next(reader)
 
-# Save results to CSV
-output_df = pd.DataFrame(image_data, columns=["Website", "Image URL", "Description", "Color", "Fabric", "Clothing Type"])
-output_df.to_csv(output_csv, index=False)
+        if len(headers) == len(values):
+            record = dict(zip(headers, values))
+            record['Website'] = source_url  # Ensure correct URL
+            # Optionally drop 'Image URL' if GPT includes it
+            record.pop("Image URL", None)
+            image_data.append(record)
+        else:
+            print(f"⚠️ Column mismatch for image: {image_url}")
+            print("Headers:", headers)
+            print("Values :", values)
+            print("Raw output:\n", description_clean)
 
-print(f"Scraping and analysis complete. Data saved to {output_csv}")
+    except Exception as e:
+        print(f"⚠️ CSV parsing error for image: {image_url} — {e}")
+        print("Raw output:\n", description_clean)
+
+    if image_data:
+        output_df = pd.DataFrame(image_data)
+        output_df.to_csv(brand_csv_path, index=False)
+        print(f"✅ Saved data for {url} to {brand_csv_path}")
+
+print("\n✅ Scraping and analysis complete. All brand data saved.")
+
