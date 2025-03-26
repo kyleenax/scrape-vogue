@@ -1,4 +1,3 @@
-import time
 import requests
 import re
 import os
@@ -9,8 +8,7 @@ from PIL import Image
 from io import BytesIO, StringIO
 from openai import OpenAI
 
-client = OpenAI(api_key="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"
-)  # Replace with your actual key
+client = OpenAI(api_key="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")  # Replace with your actual key
 
 # Create output directory if it doesn't exist
 output_dir = "brand_csvs"
@@ -27,11 +25,11 @@ def scrape_images_from_url(url):
             return []
 
         soup = BeautifulSoup(response.text, 'html.parser')
-        img_tags = soup.find_all("img")
+        img_tags = soup.select(".hbwssY, #gallery-collection .responsive-image__image")
 
         image_urls = []
         for img in img_tags:
-            img_url = img.get("src")
+            img_url = img.get("src") or img.get("data-src")
             if img_url and img_url.startswith("http"):
                 image_urls.append(img_url)
 
@@ -46,7 +44,7 @@ def analyze_image_as_csv(image_url, source_url):
         response = requests.get(image_url)
         img = Image.open(BytesIO(response.content))
 
-        for attempt in range(3):  # Retry mechanism
+        for attempt in range(3):
             try:
                 response = client.chat.completions.create(
                     model="gpt-4o",
@@ -55,11 +53,10 @@ def analyze_image_as_csv(image_url, source_url):
                             "role": "system",
                             "content": (
                                 "You are a fashion analyst. Given an image of a fashion look, respond ONLY with one row of CSV (no preamble, no extra text). "
-                                "The CSV should have the following headers: Website, Look Number, Designer, Season, Gender Presentation, Garments, "
+                                "The CSV should have the following headers: Look Number, Designer, Season, Gender Presentation, Garments, "
                                 "Accessories, Silhouette, Style Keywords, Notes. Each field should be concise and consistent. Garments should combine type, color, and texture. "
-                                "Wrap all comma-containing fields in double quotes. Do not include an Image URL column. Do not use markdown or code blocks."
+                                "Wrap all comma-containing fields in double quotes. Do not include an Image URL or Website column. Do not use markdown or code blocks."
                             )
-
                         },
                         {
                             "role": "user",
@@ -93,7 +90,7 @@ df = pd.read_csv(input_csv)
 
 for index, row in df.iterrows():
     url = row['url']
-    print(f"\nProcessing: {url}")
+    print(f"\n🔍 Processing: {url}")
 
     brand_name = sanitize_filename(url)
     brand_csv_path = os.path.join(output_dir, f"{brand_name}.csv")
@@ -108,33 +105,30 @@ for index, row in df.iterrows():
 
         description = analyze_image_as_csv(image_url, url)
         if description:
-            description_clean = description.strip("`").strip()
-    try:
-        csv_buffer = StringIO(description_clean)
-        reader = csv.reader(csv_buffer)
-        headers = next(reader)
-        values = next(reader)
+            try:
+                # Remove markdown code block formatting if present
+                cleaned = re.sub(r"```csv|```", "", description, flags=re.IGNORECASE).strip()
+                csv_buffer = StringIO(cleaned)
+                reader = csv.reader(csv_buffer)
+                headers = next(reader)
+                values = next(reader)
 
-        if len(headers) == len(values):
-            record = dict(zip(headers, values))
-            record['Website'] = source_url  # Ensure correct URL
-            # Optionally drop 'Image URL' if GPT includes it
-            record.pop("Image URL", None)
-            image_data.append(record)
-        else:
-            print(f"⚠️ Column mismatch for image: {image_url}")
-            print("Headers:", headers)
-            print("Values :", values)
-            print("Raw output:\n", description_clean)
+                if len(headers) == len(values):
+                    record = dict(zip(headers, values))
+                    image_data.append(record)
+                else:
+                    print(f"⚠️ Column mismatch for image: {image_url}")
+                    print("Headers:", headers)
+                    print("Values :", values)
+                    print("Raw output:\n", description)
 
-    except Exception as e:
-        print(f"⚠️ CSV parsing error for image: {image_url} — {e}")
-        print("Raw output:\n", description_clean)
+            except Exception as e:
+                print(f"⚠️ CSV parsing error for image: {image_url} — {e}")
+                print("Raw output:\n", description)
 
     if image_data:
         output_df = pd.DataFrame(image_data)
         output_df.to_csv(brand_csv_path, index=False)
-        print(f"✅ Saved data for {url} to {brand_csv_path}")
+        print(f"✅ Saved {len(image_data)} looks to {brand_csv_path}")
 
-print("\n✅ Scraping and analysis complete. All brand data saved.")
-
+print("\n🎉 Scraping and analysis complete. All brand data saved.")
