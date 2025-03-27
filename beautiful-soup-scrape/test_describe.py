@@ -111,7 +111,7 @@ def save_csv_by_designer(image_data, output_dir):
         print(f"✅ Appended {len(records)} rows to {filepath}")
 
 # Main runner
-input_csv = "tidy_v1.csv"
+input_csv = "test.csv"
 df = pd.read_csv(input_csv)
 
 for index, row in df.iterrows():
