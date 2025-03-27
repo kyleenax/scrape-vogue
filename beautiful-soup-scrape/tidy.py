@@ -18,7 +18,7 @@ def append_brands_to_urls(input_csv, output_csv):
     for _, row in df.iterrows():
         season = row["season"]
         base_url = row["url"]
-        brands = row["list-of-brands"]
+        brands = row["sampled_brands"]
 
         # ✅ Split brands into a list (keep original format)
         if pd.notna(brands):  # Check if brands exist
@@ -54,4 +54,4 @@ def append_brands_to_urls(input_csv, output_csv):
     print(f"✅ Reformatted data saved to {output_csv}")
 
 # ✅ Run the function
-append_brands_to_urls("v4.csv", "tidy_v4.csv")
+append_brands_to_urls("sampled_v4.csv", "tidy_sampled_v4.csv")
