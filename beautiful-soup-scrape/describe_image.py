@@ -8,7 +8,7 @@ from PIL import Image
 from io import BytesIO, StringIO
 from openai import OpenAI
 
-client = OpenAI(api_key="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")  # Replace with your actual key
+client = OpenAI(api_key="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")  # Replace with your actual key
 
 # Create output directory if it doesn't exist
 output_dir = "brand_csvs"
@@ -39,53 +39,38 @@ def scrape_images_from_url(url):
         print(f"Error scraping {url}: {e}")
         return []
 
-def analyze_image_as_csv(image_url, source_url):
+def analyze_images_as_csv(image_urls, source_url):
     try:
-        response = requests.get(image_url)
-        img = Image.open(BytesIO(response.content))
+        image_input = [{"type": "image_url", "image_url": {"url": url}} for url in image_urls]
 
-        for attempt in range(3):
-            try:
-                response = client.chat.completions.create(
-                    model="gpt-4o",
-                    messages=[
-                        {
-                            "role": "system",
-                            "content": (
-                                "You are a fashion analyst. Given an image of a fashion look, respond ONLY with one row of CSV (no preamble, no extra text). "
-                                "The CSV should have the following headers: Look Number, Designer, Season, Gender Presentation, Garments, "
-                                "Accessories, Silhouette, Style Keywords, Notes. Each field should be concise and consistent. Garments should combine type, color, and texture. "
-                                "Wrap all comma-containing fields in double quotes. Do not include an Image URL or Website column. Do not use markdown or code blocks."
-                            )
-                        },
-                        {
-                            "role": "user",
-                            "content": [
-                                {"type": "image_url", "image_url": {"url": image_url}},
-                                {"type": "text", "text": f"Analyze this fashion look from {source_url} and return one single row of CSV including the headers."}
-                            ]
-                        }
-                    ],
-                    temperature=0.3
-                )
+        response = client.chat.completions.create(
+            model="gpt-4o",
+            messages=[
+                {
+                    "role": "system",
+                    "content": (
+                        "You are a fashion analyst. Given a list of fashion look images, respond ONLY with a CSV table. "
+                        "The CSV should have the following headers: Look Number, Designer, Season, Gender Presentation, Garments, "
+                        "Accessories, Silhouette, Style Keywords, Notes. Each row corresponds to one image. Wrap all comma-containing fields in double quotes. "
+                        "Do not include image URLs. Do not include any explanations, markdown, or commentary — just the CSV."
+                    )
+                },
+                {
+                    "role": "user",
+                    "content": image_input + [{"type": "text", "text": f"Analyze these fashion looks from {source_url} and return a single CSV table."}]
+                }
+            ],
+            temperature=0.3
+        )
 
-                return response.choices[0].message.content.strip()
-
-            except Exception as e:
-                if "429 Too Many Requests" in str(e):
-                    wait_time = 10 * (attempt + 1)
-                    print(f"Rate limit exceeded. Retrying in {wait_time} seconds...")
-                    time.sleep(wait_time)
-                else:
-                    print(f"Error analyzing image {image_url}: {e}")
-                    return None
+        return response.choices[0].message.content.strip()
 
     except Exception as e:
-        print(f"Error analyzing image {image_url}: {e}")
+        print(f"Error analyzing images: {e}")
         return None
 
 # Read input CSV file containing Vogue URLs
-input_csv = "tidy_v1.csv"
+input_csv = "tidy_v4.csv"
 df = pd.read_csv(input_csv)
 
 for index, row in df.iterrows():
@@ -96,14 +81,22 @@ for index, row in df.iterrows():
     brand_csv_path = os.path.join(output_dir, f"{brand_name}.csv")
 
     image_urls = scrape_images_from_url(url)
+    if not image_urls:
+        continue
+
+    description = analyze_images_as_csv(image_urls, url)
     image_data = []
 
-    for image_url in image_urls:
-        if "undefined" in image_url or "limit/undefined" in image_url:
-            print(f"Skipping invalid image URL: {image_url}")
-            continue
+    if description:
+        try:
+            cleaned = re.sub(r"```csv|```", "", description, flags=re.IGNORECASE).strip()
+            csv_buffer = StringIO(cleaned)
+            reader = csv.DictReader(csv_buffer)
+            image_data = list(reader)
 
-        description = analyze_image_as_csv(image_url, url)
+        except Exception as e:
+            print(f"⚠️ CSV parsing error for page: {url} — {e}")
+            print("Raw output:\n", description)
         if description:
             try:
                 # Remove markdown code block formatting if present
