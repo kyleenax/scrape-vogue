@@ -1,10 +1,19 @@
 Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,Style Keywords,Notes
-1,Bouchra Jarrar,Fall 2012,Feminine,"Black leather jacket, gray pleated skirt",None,"Fitted top, A-line skirt","Chic, structured","Belted waist, classic elegance"
-2,Bouchra Jarrar,Fall 2012,Feminine,"Black asymmetrical jacket, black skirt",None,"Fitted, flared skirt","Minimalist, sophisticated","High collar, monochrome"
-3,Bouchra Jarrar,Fall 2012,Feminine,"Black double-breasted jacket, black trousers",None,"Tailored, sleek","Modern, elegant","High collar, sharp tailoring"
+1,Bouchra Jarrar,Fall 2012,Feminine,"Black leather jacket, gray pleated skirt",,"Fitted top, A-line skirt","Chic, structured","Belted waist, classic elegance"
+2,Bouchra Jarrar,Fall 2012,Feminine,"Black asymmetrical jacket, black skirt",,"Fitted, flared skirt","Minimalist, sophisticated","High collar, monochrome"
+3,Bouchra Jarrar,Fall 2012,Feminine,"Black double-breasted jacket, black trousers",,"Tailored, sleek","Modern, elegant","High collar, sharp tailoring"
 1,Bouchra Jarrar,Fall 2012,Feminine,"Black tailored blazer, black trousers",Black heels,"Structured, tailored","Chic, minimalist",Emphasis on sharp tailoring and clean lines
 2,Bouchra Jarrar,Fall 2012,Feminine,"Black double-breasted coat, teal sleeves, black trousers",Black heels,"Oversized, structured","Elegant, sophisticated",Contrasting sleeve color adds visual interest
 3,Bouchra Jarrar,Fall 2012,Feminine,"Black top, gray wide-leg trousers",Black bag,"Boxy, relaxed","Modern, understated",Focus on simplicity and subtle texture contrast
-1,Bouchra Jarrar,Fall 2012,Feminine,Black sleeveless dress,None,"A-line, fitted","Elegant, minimal",Ruched back detail
+1,Bouchra Jarrar,Fall 2012,Feminine,Black sleeveless dress,,"A-line, fitted","Elegant, minimal",Ruched back detail
 2,Bouchra Jarrar,Fall 2012,Feminine,Black sleeveless dress,Brown clutch,"Straight, loose","Chic, modern",Double strap detail
-3,Bouchra Jarrar,Fall 2012,Feminine,Black long-sleeve dress,None,"Straight, structured","Sophisticated, sleek",White trim accent
+3,Bouchra Jarrar,Fall 2012,Feminine,Black long-sleeve dress,,"Straight, structured","Sophisticated, sleek",White trim accent
+1,Bouchra Jarrar,Spring 2014,Feminine,"Striped sleeveless coat, white top, white trousers",Studded belt,"Tailored, elongated","Chic, modern","Monochrome stripes, asymmetrical closure"
+2,Bouchra Jarrar,Spring 2014,Feminine,"Striped jacket, striped cropped trousers",Black ankle strap heels,"Boxy, cropped","Sophisticated, graphic","Matching set, bold stripes"
+3,Bouchra Jarrar,Spring 2014,Feminine,Black sleeveless dress,None visible,"Straight, sleek","Minimalist, elegant","Contrasting trim, clean lines"
+1,Bouchra Jarrar,Spring 2014,Feminine,"Black top, black trousers",None,"Straight, relaxed","Minimalist, elegant",Contrasting white cuffs
+2,Bouchra Jarrar,Spring 2014,Feminine,Navy sleeveless dress,None,A-line,"Chic, modern",Diagonal zipper detail
+3,Bouchra Jarrar,Spring 2014,Feminine,Navy dress with asymmetrical sleeve,Black ankle-strap heels,"Fitted, asymmetrical","Sophisticated, sleek",Contrasting trim on neckline
+1,Bouchra Jarrar,Spring 2014,Feminine,"Striped dress, black collar",Black ankle strap heels,"Straight, relaxed","Chic, minimal","Monochrome stripes, subtle elegance"
+2,Bouchra Jarrar,Spring 2014,Feminine,"Striped top, striped shorts",None,"Boxy, casual","Effortless, modern",Mix of horizontal and vertical stripes
+3,Bouchra Jarrar,Spring 2014,Feminine,"Black leather jacket, black trousers",Black ankle strap heels,"Tailored, sleek","Edgy, sophisticated","Classic biker jacket, minimalist approach"

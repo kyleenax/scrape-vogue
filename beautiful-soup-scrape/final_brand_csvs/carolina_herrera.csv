@@ -15,11 +15,20 @@ Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,
 2,Carolina Herrera,Spring 2022,Feminine,Black dress with white ruffled sleeves,Pointed black and white heels,"Fitted, structured","Chic, sophisticated","Contrasting sleeves, modern elegance"
 3,Carolina Herrera,Spring 2022,Feminine,"White blouse, black shorts",Black cutout shoes,"Relaxed, tailored","Classic, refined","Bow detail on blouse, monochrome look"
 1,Carolina Herrera,Fall 2012,Feminine,"Navy jacket with fur sleeves, black turtleneck, navy skirt",Black belt,"Structured, fitted","Elegant, sophisticated",Fur detailing on sleeves
-2,Carolina Herrera,Fall 2012,Feminine,"Navy coat with fur trim, black turtleneck, black pants",None,"Long, tailored","Chic, luxurious",Fur trim adds texture
-3,Carolina Herrera,Fall 2012,Feminine,"Navy cape, patterned high-neck top, navy skirt",None,"Fitted, layered","Modern, polished",High-neck adds drama
+2,Carolina Herrera,Fall 2012,Feminine,"Navy coat with fur trim, black turtleneck, black pants",,"Long, tailored","Chic, luxurious",Fur trim adds texture
+3,Carolina Herrera,Fall 2012,Feminine,"Navy cape, patterned high-neck top, navy skirt",,"Fitted, layered","Modern, polished",High-neck adds drama
 1,Carolina Herrera,Fall 2012,Feminine,"Navy dress, black scarf","Black gloves, brooch",A-line,"Elegant, classic","Structured shoulders, monochrome"
 2,Carolina Herrera,Fall 2012,Feminine,"Navy top, navy trousers, feathered detail",Bracelet,Slim,"Chic, sophisticated","Feather embellishment, sleek lines"
 3,Carolina Herrera,Fall 2012,Feminine,"Navy blouse, black textured dress",Brooch,A-line,"Timeless, refined","Textured fabric, voluminous sleeves"
 1,Carolina Herrera,Fall 2012,Feminine,"Black textured sweater, embellished pencil skirt","Black gloves, black tights, ankle boots","Fitted, streamlined","Elegant, sophisticated","Textured fabric, subtle embellishments"
 2,Carolina Herrera,Fall 2012,Feminine,Striped sequin dress,"Wide headband, black tights, ankle boots","Fitted, knee-length","Chic, modern","Striped pattern, sequin detailing"
 3,Carolina Herrera,Fall 2012,Feminine,"Black textured coat, embellished dress","Wide headband, black tights, pumps","Structured, layered","Classic, refined","Textured coat, layered look"
+1,Carolina Herrera,Fall 2021,Feminine,Black mini dress with heart buttons,Pearl drop earrings,A-line,"Chic, elegant","Ruffled collar, heart-shaped buttons"
+2,Carolina Herrera,Fall 2021,Feminine,Black gown with colorful heart appliqués,Heart-shaped earrings,Column,"Playful, bold","Spaghetti straps, vibrant embellishments"
+3,Carolina Herrera,Fall 2021,Feminine,Pink strapless mini dress with heart appliqués,Triangle earrings,A-line,"Romantic, fun","Sweetheart neckline, colorful hearts"
+1,Carolina Herrera,Fall 2021,Feminine,"Black blouse with puff sleeves, black skirt","Heart-shaped earrings, black handbag with chain strap","Fitted waist, voluminous sleeves","Chic, romantic","Heart motifs, elegant black ensemble"
+2,Carolina Herrera,Fall 2021,Feminine,Red heart-patterned dress,"Heart-shaped earrings, white handbag with heart details","Slim, longline","Playful, vibrant","Bold heart patterns, contrasting colors"
+3,Carolina Herrera,Fall 2021,Feminine,Black off-shoulder dress,"Heart-shaped earrings, wide belt with heart buckle","Structured, form-fitting","Sophisticated, bold","Off-shoulder neckline, statement belt"
+1,Carolina Herrera,Fall 2021,Feminine,"White blouse with heart cutouts, black skirt","Heart-shaped belt, pink handbag, earrings","Structured, A-line","Romantic, playful","Heart motifs, bold belt"
+2,Carolina Herrera,Fall 2021,Feminine,"Denim jacket, wide-leg pants","Polka dot bag, earrings","Relaxed, wide-leg","Casual, chic","Denim with heart stitching, playful bag"
+3,Carolina Herrera,Fall 2021,Feminine,Black dress with heart cutouts,"Heart-shaped belt, earrings","Structured, midi-length","Elegant, sophisticated","Monochrome look, heart motifs"

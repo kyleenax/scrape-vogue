@@ -1,10 +1,19 @@
 Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,Style Keywords,Notes
-1,Yeohlee,Fall 2022,Feminine,"Red coat, black and white textured jacket, white top, textured pants",None,"Layered, relaxed","Chic, layered","Bold red coat, textured layering"
-2,Yeohlee,Fall 2022,Feminine,"Blue coat, white blouse, black trousers",None,"Structured, clean","Minimalist, modern","Sharp lapels, monochrome contrast"
-3,Yeohlee,Fall 2022,Feminine,"Textured coat, blue top, matching textured pants, black coat draped",None,"Relaxed, layered","Cozy, sophisticated","Textured fabric, draped coat"
+1,Yeohlee,Fall 2022,Feminine,"Red coat, black and white textured jacket, white top, textured pants",,"Layered, relaxed","Chic, layered","Bold red coat, textured layering"
+2,Yeohlee,Fall 2022,Feminine,"Blue coat, white blouse, black trousers",,"Structured, clean","Minimalist, modern","Sharp lapels, monochrome contrast"
+3,Yeohlee,Fall 2022,Feminine,"Textured coat, blue top, matching textured pants, black coat draped",,"Relaxed, layered","Cozy, sophisticated","Textured fabric, draped coat"
 1,Yeohlee,Fall 2022,Feminine,"Black oversized coat, blue cropped pants",Black flats,"Oversized, structured","Minimalist, modern","High collar, asymmetrical zip"
 2,Yeohlee,Fall 2022,Feminine,"Blue and black fringe top, blue and black pants",Black flats,"Slim, relaxed","Casual, contemporary","Fringe detail, color blocking"
 3,Yeohlee,Fall 2022,Feminine,"Black mesh top, striped skirt, black cape",Black boots,"Layered, flowing","Dramatic, eclectic","Mix of textures, monochrome palette"
 1,Yeohlee,Fall 2022,Feminine,"Metallic fringe dress, black underlayer",Black boots,"Loose, flowing","Futuristic, edgy","Fringe details, metallic sheen"
 2,Yeohlee,Fall 2022,Feminine,"Black cape, metallic dress",Black boots,"Layered, structured","Minimalist, modern","Contrasting textures, cape overlay"
 3,Yeohlee,Fall 2022,Feminine,"Black oversized jacket, white top, metallic pants",Black boots,"Relaxed, voluminous","Contemporary, eclectic","Mix of textures, asymmetrical layers"
+1,Yeohlee,Spring 2016,Feminine,"Gray coat, blue striped top, black cropped pants",Slip-on shoes,"Straight, relaxed","Casual, layered","Mix of patterns, subtle color contrast"
+2,Yeohlee,Spring 2016,Feminine,"White coat, blue striped dress",Black sneakers,A-line,"Casual, fresh","Light layering, sporty touch"
+3,Yeohlee,Spring 2016,Feminine,Blue textured dress,Slip-on shoes,"Loose, draped","Effortless, comfortable","Textured fabric, minimalistic design"
+1,Yeohlee,Spring 2016,Feminine,White shift dress,Black sneakers,"Loose, straight","Minimalist, casual",Simple design with pocket detail
+2,Yeohlee,Spring 2016,Feminine,Blue textured romper,Black slip-on shoes,"Relaxed, belted","Casual, comfortable","Textured fabric, belt accent"
+3,Yeohlee,Spring 2016,Feminine,"White blouse, navy pencil skirt",Black sneakers,"Tailored, fitted","Classic, professional","Crisp white blouse, contrasting skirt"
+1,Yeohlee,Spring 2016,Feminine,"Black jacket, white t-shirt, black shorts",Black slip-on shoes,"Relaxed, casual","Minimalist, sporty",Layered top with tied scarf detail
+2,Yeohlee,Spring 2016,Feminine,"Black top, white geometric skirt",Black sneakers,"Fitted, structured","Modern, chic",Asymmetrical skirt design
+3,Yeohlee,Spring 2016,Feminine,Blue dress,Black slip-on shoes,"A-line, relaxed","Casual, contemporary","Wide sleeves, pockets"

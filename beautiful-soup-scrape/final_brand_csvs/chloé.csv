@@ -17,7 +17,7 @@ Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,
 1,Chloé,Spring 2009,Feminine,"White blouse with puffed sleeves, high-waisted trousers",Black sandals,"Structured, high-waisted","Elegant, minimalist",Textured sleeve details
 2,Chloé,Spring 2009,Feminine,White one-shoulder dress,"Striped clutch, black and yellow sandals","Asymmetrical, fitted","Chic, contemporary",Draped shoulder detail
 3,Chloé,Spring 2009,Feminine,White strappy dress,White sandals,"Flowy, empire waist","Romantic, soft",Bow detail on bodice
-1,Chloé,Spring 2012,Feminine,White and tan pleated dress,None,"Flowy, A-line","Minimalist, elegant",Vertical pleats create movement
+1,Chloé,Spring 2012,Feminine,White and tan pleated dress,,"Flowy, A-line","Minimalist, elegant",Vertical pleats create movement
 2,Chloé,Spring 2012,Feminine,"White blouse with tan stripes, white wide-leg trousers","Tan belt, small clutch","Relaxed, loose","Chic, casual",Belt adds structure to the loose fit
 3,Chloé,Spring 2012,Feminine,White dress with pink stripes,White belt,"Flowy, relaxed","Soft, modern",Subtle color contrast with stripes
 1,Chloé,Spring 2012,Feminine,White and teal striped dress,Nude platform sandals,"Flowy, relaxed","Effortless, airy",Vertical stripes create elongation
@@ -26,3 +26,12 @@ Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,
 1,Chloé,Spring 2012,Feminine,"White perforated top, white perforated skirt","White clutch, metallic sandals","Relaxed, A-line","Light, airy","Monochrome white, textured fabric"
 2,Chloé,Spring 2012,Feminine,"White eyelet blouse, white skirt","White belt, white shoes","Flowy, cinched waist","Elegant, minimal","Monochrome white, subtle detailing"
 3,Chloé,Spring 2012,Feminine,"White eyelet blouse, teal trousers","White belt, tan shoes","Relaxed, wide-leg","Chic, vibrant","Pop of color with teal, crisp white top"
+1,Chloé,Fall 2017,Feminine,Plaid coat with fur collar,Brown suede shoes,"A-line, structured","Retro, cozy","Warm tones, double-breasted design"
+2,Chloé,Fall 2017,Feminine,Floral print dress,Green handbag,"Straight, relaxed","Bohemian, vintage","Intricate patterns, puff sleeves"
+3,Chloé,Fall 2017,Feminine,Faux fur coat with belt,Black T-strap heels,"Fitted, flared","Luxurious, bold","Rich texture, vibrant color"
+1,Chloé,Fall 2017,Feminine,"Brown leather pinafore dress, yellow floral blouse",Olive handbag,"A-line, fitted","Retro, 70s-inspired","Playful floral pattern, shiny texture"
+2,Chloé,Fall 2017,Feminine,Gray tailored jumpsuit,Black belt,"Structured, tailored","Androgynous, utilitarian","Wide collar, sharp tailoring"
+3,Chloé,Fall 2017,Feminine,"Green oversized coat, yellow floral dress",None,"Oversized, layered","Casual, vintage","Contrasting textures, relaxed fit"
+1,Chloé,Fall 2017,Feminine,Green floral lace dress,"Brown handbag, brown heels","A-line, flowy","Romantic, vintage","Delicate lace, floral pattern"
+2,Chloé,Fall 2017,Feminine,"Cream bomber jacket, paisley blouse, mustard trousers",Black belt,"Relaxed, oversized","Casual, retro","Textured bomber, wide-leg pants"
+3,Chloé,Fall 2017,Feminine,"Plaid oversized coat, yellow knit dress","Gold necklace, black heels","Loose, layered","Cozy, chic","Plaid pattern, layered look"

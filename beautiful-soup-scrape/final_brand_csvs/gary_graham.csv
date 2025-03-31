@@ -8,12 +8,21 @@ Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,
 1,Gary Graham,Fall 2010,Feminine,"Gray draped dress, leather jacket with fur",,"Layered, voluminous","Edgy, textured",Contrasting textures with fur and leather
 2,Gary Graham,Fall 2010,Masculine,"White shirt, olive jacket, gray cardigan, dark pants",,"Relaxed, layered","Casual, rugged",Layered knitwear with a relaxed fit
 3,Gary Graham,Fall 2010,Feminine,"Embroidered jacket, ruched mustard skirt",,"Draped, fitted","Ornate, sophisticated",Intricate embroidery with rich draping
-1,Gary Graham,Spring 2010,Feminine,Cream layered dress with fringe details,None,"A-line, flowy","Ethereal, delicate","Light fabric, asymmetrical hem"
+1,Gary Graham,Spring 2010,Feminine,Cream layered dress with fringe details,,"A-line, flowy","Ethereal, delicate","Light fabric, asymmetrical hem"
 2,Gary Graham,Spring 2010,Feminine,Cream layered dress with cowl neckline,"Black leather belt, black ankle boots","A-line, structured","Edgy, romantic","Contrasting belt, layered textures"
-3,Gary Graham,Spring 2010,Feminine,"Silk dress with embroidered details, ruffled jacket",None,"A-line, draped","Vintage, elegant","Soft sheen, intricate embroidery"
+3,Gary Graham,Spring 2010,Feminine,"Silk dress with embroidered details, ruffled jacket",,"A-line, draped","Vintage, elegant","Soft sheen, intricate embroidery"
 1,Gary Graham,Spring 2010,Feminine,"Layered asymmetrical dress, leather belt",Ankle boots,"Flowy, layered","Romantic, ethereal","Soft draping, muted tones"
 2,Gary Graham,Spring 2010,Feminine,"Plaid dress, leather belt",Black heels,"A-line, cinched waist","Vintage, playful","Plaid pattern, layered skirt"
 3,Gary Graham,Spring 2010,Feminine,"Plaid top, printed skirt",Ankle boots,"Draped, voluminous","Eclectic, bohemian","Mix of patterns, relaxed fit"
 1,Gary Graham,Spring 2010,Feminine,"Floral dress, knitted cardigan",Black ankle boots,"Draped, layered","Romantic, vintage","Soft textures, warm tones"
 2,Gary Graham,Spring 2010,Feminine,"Orange corset top, black cropped pants",Black lace-up boots,"Fitted, structured","Edgy, modern","Bold corset, contrast in colors"
 3,Gary Graham,Spring 2010,Feminine,"Oversized cream blouse, khaki cropped pants",Black lace-up boots,"Relaxed, oversized","Casual, artistic","Flowy top, neutral palette"
+1,Gary Graham,Fall 2016,Feminine,"Black knit dress, leggings",Fur hat,"Fitted, voluminous skirt","Cozy, vintage","Textured knit, dark palette"
+2,Gary Graham,Fall 2016,Feminine,"Long black coat, patterned top, skirt",None visible,"Oversized, layered","Classic, elegant","Draped coat, subtle patterns"
+3,Gary Graham,Fall 2016,Androgynous,"Faux fur jacket, trousers",None visible,"Boxy, layered","Edgy, dramatic","Faux fur texture, dark tones"
+1,Gary Graham,Fall 2016,Feminine,"Printed leggings, denim top, quilted cape",Chain strap,"Layered, fitted","Edgy, urban","Graffiti backdrop, mixed textures"
+2,Gary Graham,Fall 2016,Feminine,"Layered skirt, denim cape, printed top",None,"A-line, layered","Rustic, eclectic","Natural setting, earthy tones"
+3,Gary Graham,Fall 2016,Feminine,"Textured top, sheer embroidered skirt",None,"Straight, relaxed","Minimalist, ethereal","Monochrome palette, soft textures"
+1,Gary Graham,Fall 2016,Feminine,"White long shirt dress, black pants",None,"Loose, layered","Androgynous, minimalist","High collar, asymmetrical hem"
+2,Gary Graham,Fall 2016,Feminine,"Black dress, printed shawl",None,"Draped, flowing","Artistic, bohemian","Intricate print, layered shawl"
+3,Gary Graham,Fall 2016,Feminine,"Textured top, brown skirt",Fur stole,"Voluminous, textured","Eclectic, rustic","Fringed details, earthy tones"

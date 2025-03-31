@@ -1,10 +1,19 @@
 Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,Style Keywords,Notes
 1,VPL,Fall 2009,Feminine,"Blue tank top, black skirt",Blue knit scarf,"Layered, relaxed","Casual, layered","Thigh-high boots, draped scarf"
-2,VPL,Fall 2009,Feminine,"Blue dress, black oversized coat",None,"Oversized, fitted","Modern, geometric","Color-blocked leggings, structured coat"
+2,VPL,Fall 2009,Feminine,"Blue dress, black oversized coat",,"Oversized, fitted","Modern, geometric","Color-blocked leggings, structured coat"
 3,VPL,Fall 2009,Feminine,"Blue dress, black long vest",Bracelets,"Fitted, layered","Casual, chic","Contrasting belt, ankle boots"
 1,VPL,Fall 2009,Feminine,"Blue asymmetrical dress, black underlayer, blue leggings",Chunky bracelet,"Fitted, layered","Edgy, modern","Asymmetrical neckline, color blocking"
-2,VPL,Fall 2009,Feminine,"Black structured jacket, blue leggings",None,"Boxy top, fitted bottom","Minimalist, contemporary","Zipper detail, oversized sleeves"
-3,VPL,Fall 2009,Feminine,"Black and white top, blue high-waisted pants",None,Fitted,"Sporty, sleek","Color contrast, zipper detail"
+2,VPL,Fall 2009,Feminine,"Black structured jacket, blue leggings",,"Boxy top, fitted bottom","Minimalist, contemporary","Zipper detail, oversized sleeves"
+3,VPL,Fall 2009,Feminine,"Black and white top, blue high-waisted pants",,Fitted,"Sporty, sleek","Color contrast, zipper detail"
 1,VPL,Fall 2009,Feminine,"Gray short-sleeve top, white tank, black leggings",Silver bracelet,"Relaxed, layered","Casual, modern",Textured knit top
 2,VPL,Fall 2009,Feminine,"Black sheer top, white waist wrap, black skirt",Black shoulder bag,"Fitted, layered","Edgy, contemporary","Sheer layering, waist accent"
-3,VPL,Fall 2009,Feminine,"Gray knit top, white waist wrap, black mini skirt",None,"Structured, layered","Chic, urban","Knit textures, thigh-high boots"
+3,VPL,Fall 2009,Feminine,"Gray knit top, white waist wrap, black mini skirt",,"Structured, layered","Chic, urban","Knit textures, thigh-high boots"
+1,VPL,Fall 2015,Feminine,"Color-blocked crop top, pencil skirt, long-sleeve undershirt","Striped beanie, wristbands","Fitted, layered","Sporty, modern","Bold color-blocking, athletic influence"
+2,VPL,Fall 2015,Feminine,"Color-blocked tank top, leggings, jacket tied at waist","Headband, wristbands","Slim, athletic","Sporty, casual","Layered look, vibrant colors"
+3,VPL,Fall 2015,Feminine,"Color-blocked bodysuit, leggings",Wristbands,"Streamlined, fitted","Athleisure, contemporary","Neon accents, sleek design"
+1,VPL,Fall 2015,Feminine,"Gray cropped sweater, coral turtleneck, black leggings with green accents","Black and green headband, white high-top sneakers","Fitted, athletic","Sporty, casual",Layered tops with color blocking
+2,VPL,Fall 2015,Feminine,"Green oversized sweater, black leggings","Black headband, white high-top sneakers, orange clutch","Relaxed, athletic","Sporty, casual","Sweater tied around waist, bright color accents"
+3,VPL,Fall 2015,Feminine,"Black sleeveless top, gray jogger pants","Black headband, white high-top sneakers, keychain","Relaxed, athletic","Sporty, casual","Mesh sleeves, large exercise ball prop"
+1,VPL,Fall 2015,Feminine,"Green long-sleeve top, black and green pants",Striped headband,"Relaxed, sporty","Athleisure, casual","Color-blocking, layered look"
+2,VPL,Fall 2015,Feminine,"Burgundy and purple top, purple leggings",Striped headband,"Fitted, sporty","Athleisure, casual","Color-blocking, layered look"
+3,VPL,Fall 2015,Feminine,"Burgundy jacket, color-blocked bodysuit",Striped headband,"Fitted, sporty","Athleisure, casual","Color-blocking, layered look"

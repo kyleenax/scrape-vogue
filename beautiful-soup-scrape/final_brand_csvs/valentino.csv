@@ -33,8 +33,26 @@ Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,
 2,Valentino,Fall 2012,Feminine,"Black leather top, leather skirt",Black ankle-strap heels,"Straight, structured","Minimalist, sleek",Emphasis on leather detailing
 3,Valentino,Fall 2012,Feminine,Black leather jumpsuit,Black ankle-strap heels,"Fitted, streamlined","Chic, modern","All-leather look, subtle embellishments"
 1,Valentino,Fall 2012,Feminine,Black leather coat with lace detailing,"Black gloves, black handbag","A-line, fitted","Elegant, classic",Intricate lace detailing
-2,Valentino,Fall 2012,Feminine,"Black leather trench coat, white shirt",None,"Tailored, structured","Sophisticated, modern",Double-breasted design
-3,Valentino,Fall 2012,Feminine,"White sheer blouse with bow, black leather skirt",None,"A-line, flowing","Chic, romantic",Sheer fabric with bow detail
+2,Valentino,Fall 2012,Feminine,"Black leather trench coat, white shirt",,"Tailored, structured","Sophisticated, modern",Double-breasted design
+3,Valentino,Fall 2012,Feminine,"White sheer blouse with bow, black leather skirt",,"A-line, flowing","Chic, romantic",Sheer fabric with bow detail
 1,Valentino,Fall 2012,Feminine,"Black textured sweater, black leather skirt",Black clutch,A-line,"Chic, elegant",Textured knit with leather contrast
 2,Valentino,Fall 2012,Feminine,Black leather coat,Black shoulder bag,Fitted,"Sophisticated, sleek",Military-inspired toggle details
 3,Valentino,Fall 2012,Feminine,"Tan jacket, tan leather shorts",Sunglasses,Boxy,"Modern, tailored",Monochrome tan ensemble with structured silhouette
+1,Valentino,Spring 2017,Feminine,Black and pink striped dress with geometric patterns,"Long earrings, small crossbody bag","Flowy, A-line","Graphic, bold",Intricate detailing on bodice
+2,Valentino,Spring 2017,Feminine,"Black leather top, wide-leg pants","Chain strap bag, long earrings","Loose, relaxed","Chic, modern",Asymmetrical hemline on top
+3,Valentino,Spring 2017,Feminine,Sheer black dress with pink patterns,"Crossbody bag, long earrings","Layered, flowing","Romantic, intricate","Lace detailing, high neckline"
+1,Valentino,Spring 2017,Feminine,"Pink sleeveless dress, red underlayer","Red clutch, chain strap","Flowy, relaxed","Romantic, delicate",Eiffel Tower and heart motifs
+2,Valentino,Spring 2017,Feminine,Red high-neck dress with pleated skirt,"Gold earrings, small clutch","Voluminous, dramatic","Elegant, bold",Intricate embroidery
+3,Valentino,Spring 2017,Feminine,White sheer dress with cape sleeves,"Long beaded necklace, small crossbody bag","Ethereal, airy","Whimsical, vintage-inspired",Delicate lace detailing
+1,Valentino,Spring 2017,Feminine,"White button-up shirt, red patterned pants","Pink crossbody bag, statement earrings","Relaxed, oversized","Casual, chic","Bold patterned pants, minimal top"
+2,Valentino,Spring 2017,Feminine,Pink and red printed dress,"Small crossbody bag, statement earrings","A-line, flowing","Romantic, whimsical","Intricate print, soft colors"
+3,Valentino,Spring 2017,Feminine,"Pink patterned coat, pink trousers","Pink handbag, statement earrings","Structured, tailored","Elegant, bold","Vibrant coat, tonal layering"
+1,Valentino,Fall 2015,Feminine,Black and white checkered coat,Black clutch,"A-line, structured","Graphic, bold",Mix of geometric patterns
+2,Valentino,Fall 2015,Feminine,Black and white striped dress,None visible,"A-line, fitted","Monochrome, classic",Horizontal and vertical stripes
+3,Valentino,Fall 2015,Feminine,Black and white checkered dress,Black handbag with chain,"A-line, structured","Graphic, bold",Mix of checkered and triangular patterns
+1,Valentino,Fall 2015,Feminine,"Black and white oversized sweater, black and white striped skirt",Black and white striped handbag,"Loose, flowing","Graphic, monochrome",Bold geometric patterns
+2,Valentino,Fall 2015,Feminine,"Black and white cable knit sweater, black and white geometric skirt","Black handbag, gold bracelet","Relaxed, flowing","Graphic, monochrome",Textured knit with bold patterns
+3,Valentino,Fall 2015,Feminine,Black and white dress with high collar,Black clutch,"Straight, structured","Minimalist, monochrome",Clean lines with a modern touch
+1,Valentino,Fall 2015,Feminine,"Black sleeveless tunic, black wide-leg pants",Black and white handbag,"A-line, relaxed","Minimalist, chic","Monochrome, structured layers"
+2,Valentino,Fall 2015,Feminine,"White high-neck blouse, black wide-leg pants",Black and white clutch,"A-line, relaxed","Minimalist, monochrome","Crisp contrast, elegant layers"
+3,Valentino,Fall 2015,Feminine,"White high-neck blouse, black wide-leg pants, fur coat",None,"A-line, relaxed","Luxurious, sophisticated","Textured outerwear, monochrome base"

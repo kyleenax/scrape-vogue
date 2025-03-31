@@ -8,12 +8,21 @@ Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,
 1,Jil Sander,Spring 2023,Feminine,"Mint green sleeveless coat, matching dress","Silver hoop earrings, brown clutch, black boots","Structured, layered","Minimalist, modern","Soft color palette, oversized vest"
 2,Jil Sander,Spring 2023,Masculine,Light pink shirt dress,"Tortoise shell brooch, cream clutch, black boots","Relaxed, flowing","Androgynous, elegant","Subtle detailing, soft tailoring"
 3,Jil Sander,Spring 2023,Feminine,"Light blue oversized top, feathered skirt","Black round bag, silver ring, black boots","A-line, voluminous","Chic, playful","Textured skirt, statement brooch"
-1,Jil Sander,Spring 2010,Feminine,White sleeveless dress with ruffle details,None,"Straight, knee-length","Minimalist, sculptural","Ruffle accents, clean lines"
+1,Jil Sander,Spring 2010,Feminine,White sleeveless dress with ruffle details,,"Straight, knee-length","Minimalist, sculptural","Ruffle accents, clean lines"
 2,Jil Sander,Spring 2010,Feminine,"Dark tailored jacket, black shorts",Patterned heels,"Boxy, fitted","Chic, tailored","Contrasting textures, structured jacket"
-3,Jil Sander,Spring 2010,Feminine,Black dress with beige abstract patches,None,"Straight, knee-length","Artistic, modern","Patchwork design, bold contrast"
+3,Jil Sander,Spring 2010,Feminine,Black dress with beige abstract patches,,"Straight, knee-length","Artistic, modern","Patchwork design, bold contrast"
 1,Jil Sander,Spring 2010,Feminine,"White blazer, white shorts",Black and white heels,"Tailored, short","Minimalist, chic",Double-breasted blazer with large pockets
 2,Jil Sander,Spring 2010,Feminine,"White knit dress, sheer overlay",Beige heels,"Fitted, sheer","Modern, ethereal",Sheer overlay adds texture and depth
 3,Jil Sander,Spring 2010,Feminine,"Black sheer top, black pants",Black heels,"Flowy, sheer","Edgy, contemporary",Contrast between sheer top and solid pants
 1,Jil Sander,Spring 2010,Feminine,"Sheer black blouse, black trousers",Black belt,"Tailored, sleek","Minimalist, modern","Sheer fabric, structured tailoring"
-2,Jil Sander,Spring 2010,Feminine,Sheer dress with fringe details,None,"Straight, fluid","Ethereal, avant-garde","Layered fringe, sheer texture"
+2,Jil Sander,Spring 2010,Feminine,Sheer dress with fringe details,,"Straight, fluid","Ethereal, avant-garde","Layered fringe, sheer texture"
 3,Jil Sander,Spring 2010,Feminine,"White blazer, white trousers",White belt,"Tailored, elongated","Crisp, minimalist","Monochrome look, structured fit"
+1,Jil Sander,Fall 2012,Feminine,Pink coat with light blue lining,Strappy heels,"A-line, oversized","Minimalist, elegant","Soft pastel colors, floral backdrop"
+2,Jil Sander,Fall 2012,Feminine,Brown coat with pink lining,Strappy heels,"A-line, oversized","Minimalist, elegant","Contrasting colors, floral backdrop"
+3,Jil Sander,Fall 2012,Feminine,"Navy coat, light blue dress",Strappy heels,"A-line, oversized","Minimalist, elegant","Layered look, floral backdrop"
+1,Jil Sander,Fall 2012,Feminine,Sheer pink dress,Silver heels,"A-line, flowing","Ethereal, delicate",Soft pastel tones
+2,Jil Sander,Fall 2012,Feminine,"Pink long-sleeve top, beige pencil skirt","Color-block clutch, silver heels","Fitted, streamlined","Minimalist, elegant",Subtle color contrast
+3,Jil Sander,Fall 2012,Feminine,"Pink coat, beige dress","Black handbag, silver heels","Structured, layered","Chic, sophisticated",Classic silhouette with modern twist
+1,Jil Sander,Fall 2012,Feminine,"Pale pink oversized coat, yellow lining",Beige heels,"Oversized, flowing","Minimalist, elegant","Soft color palette, floral backdrop"
+2,Jil Sander,Fall 2012,Feminine,"Blush turtleneck, lavender skirt with white detail",Silver strappy heels,"A-line, fitted top","Sophisticated, modern","Subtle color contrast, clean lines"
+3,Jil Sander,Fall 2012,Feminine,Blush strapless dress,Transparent pointed heels,"Fitted bodice, flared skirt","Chic, refined","Structured bodice, understated elegance"
