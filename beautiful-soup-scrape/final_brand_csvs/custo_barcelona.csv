@@ -1,6 +1,6 @@
 Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,Style Keywords,Notes
 1,Custo Barcelona,Spring 2011,Feminine,"Multicolored romper, purple vest",Sunglasses,"Fitted, playful","Vibrant, youthful","Tropical print, layered vest"
-2,Custo Barcelona,Spring 2011,Feminine,"Striped tunic, tie-dye capris",None,"Loose, eclectic","Bohemian, colorful","Mix of patterns, relaxed fit"
+2,Custo Barcelona,Spring 2011,Feminine,"Striped tunic, tie-dye capris",,"Loose, eclectic","Bohemian, colorful","Mix of patterns, relaxed fit"
 3,Custo Barcelona,Spring 2011,Feminine,"Printed tunic, striped pants","Sunglasses, bracelet","Flowy, bold","Artistic, dynamic","Feather motif, bright stripes"
 1,Custo Barcelona,Spring 2011,Feminine,"Colorful printed top, feathered mini skirt",Strappy sandals,"Loose top, fitted skirt","Vibrant, eclectic",Mix of textures and colors
 2,Custo Barcelona,Spring 2011,Masculine,"Printed t-shirt, geometric pants","Sunglasses, scarf",Relaxed fit,"Bold, graphic",Mix of patterns and bright colors
@@ -8,3 +8,12 @@ Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,
 1,Custo Barcelona,Spring 2011,Feminine,"Multicolored striped top, fringed mini skirt","Sunglasses, chunky bracelet","Fitted, playful","Vibrant, eclectic",Mix of textures and colors
 2,Custo Barcelona,Spring 2011,Feminine,"Striped dress with fringe details, patterned cardigan","Sunglasses, fringed bag, woven sandals","Fitted, layered","Bohemian, colorful",Bold patterns and fringe
 3,Custo Barcelona,Spring 2011,Feminine,"Printed jacket, sheer top, metallic pants",Sunglasses,"Relaxed, chic","Futuristic, artistic",Metallic sheen and artistic prints
+1,Custo Barcelona,Fall 2013,Feminine,"Beige knit sweater, patterned mini skirt",Patterned boots,"Relaxed, fitted","Eclectic, textured","Bold patterns, mixed materials"
+2,Custo Barcelona,Fall 2013,Masculine,"Brown belted jacket, gray turtleneck, beige pants",Black and gold boots,"Tailored, layered","Structured, modern","Contrasting textures, defined waist"
+3,Custo Barcelona,Fall 2013,Feminine,"Patterned coat, matching dress",Patterned ankle boots,"Oversized, fitted","Bohemian, vibrant","Geometric patterns, layered textures"
+1,Custo Barcelona,Fall 2013,Masculine,"Patterned coat, turtleneck, black pants",High-top sneakers,"Relaxed, layered","Eclectic, casual","Mixed textures, bold patterns"
+2,Custo Barcelona,Fall 2013,Feminine,"Embellished top, brown pants",Bracelet,"Relaxed, casual","Bohemian, chic","Textured fabrics, earthy tones"
+3,Custo Barcelona,Fall 2013,Feminine,"Textured coat, embellished dress",None,"Fitted, layered","Sophisticated, eclectic","Contrasting textures, intricate detailing"
+1,Custo Barcelona,Fall 2013,Masculine,"Striped suit, patterned cape",Orange lace-up boots,"Fitted, layered","Eclectic, textured","Mix of patterns, bold footwear"
+2,Custo Barcelona,Fall 2013,Feminine,"Plaid top, plaid pants",Black shoes,"Relaxed, casual","Bohemian, artistic","Plaid patterns, colorful accents"
+3,Custo Barcelona,Fall 2013,Masculine,"Plaid suit, patterned shirt",Black lace-up boots,"Tailored, structured","Classic, modern","Plaid suit, contrasting textures"

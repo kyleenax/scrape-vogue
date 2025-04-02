@@ -27,7 +27,7 @@ Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,
 2,Ralph Rucci,Spring 2011,Feminine,Black buttoned dress,"Black bracelet, small black handbag, clear heels","Fitted top, flared skirt","Chic, classic","Deep V-neckline, pleated skirt"
 3,Ralph Rucci,Spring 2011,Feminine,"Printed coat, black trousers","White handbag, clear heels",Straight,"Artistic, sophisticated","Graphic print on coat, structured shoulders"
 1,Ralph Rucci,Spring 2010,Feminine,"Black tailored suit, white sheer blouse","Black glasses, black bracelets","Structured, elongated","Chic, sophisticated","Strong shoulder emphasis, sleek lines"
-2,Ralph Rucci,Spring 2010,Feminine,"Black sheer top, black A-line skirt",None,"A-line, fitted","Elegant, modern","Sheer fabric, subtle layering"
+2,Ralph Rucci,Spring 2010,Feminine,"Black sheer top, black A-line skirt",,"A-line, fitted","Elegant, modern","Sheer fabric, subtle layering"
 3,Ralph Rucci,Spring 2010,Feminine,"Black printed coat, black trousers",Large black tote,"Relaxed, flowing","Artistic, bold","Abstract print, oversized tote"
 1,Ralph Rucci,Spring 2010,Feminine,"White asymmetrical blazer with geometric pattern, black trousers",Strappy sandals,"Structured, tailored","Sophisticated, modern",Intricate pattern on blazer
 2,Ralph Rucci,Spring 2010,Feminine,Black sheer paneled dress,Clear strap sandals,"A-line, fitted","Elegant, minimalist",Sheer detailing on sleeves and hem
@@ -35,3 +35,12 @@ Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,
 1,Ralph Rucci,Spring 2010,Feminine,Black and brown coat dress,Black bracelet,A-line,"Elegant, structured","Diagonal brown stripes, button details"
 2,Ralph Rucci,Spring 2010,Feminine,Black spaghetti strap dress,Black bracelet,Straight,"Chic, textured","Textured bodice, tassel hem"
 3,Ralph Rucci,Spring 2010,Feminine,"Yellow coat, black top, yellow skirt",Black tote bag,Relaxed,"Bold, vibrant","Bright yellow, casual layering"
+1,Ralph Rucci,Fall 2013,Feminine,"Black leather jacket, black leather skirt",None visible,"Structured, fitted","Edgy, modern",Intricate detailing on sleeves
+2,Ralph Rucci,Fall 2013,Feminine,Black fur coat,Transparent knee-high boots,"Voluminous, luxurious","Glamorous, bold",High-gloss finish
+3,Ralph Rucci,Fall 2013,Feminine,"Striped fur sweater, black pants",Black gloves,"Relaxed, tailored","Chic, sophisticated",Horizontal stripes for texture
+1,Ralph Rucci,Fall 2013,Feminine,"Peach fur coat, black turtleneck, black trousers",Black gloves,"Structured, boxy","Luxurious, elegant",Bold color contrast with classic black
+2,Ralph Rucci,Fall 2013,Feminine,"Olive fur coat, black turtleneck, black trousers",Black gloves,"Structured, boxy","Luxurious, elegant",Vibrant color with sleek silhouette
+3,Ralph Rucci,Fall 2013,Feminine,"Yellow fur coat, black turtleneck, black trousers",Black gloves,"Structured, boxy","Luxurious, elegant",Bright color with classic black contrast
+1,Ralph Rucci,Fall 2013,Feminine,"Pink fur coat, black turtleneck, black trousers",None,"Long, sleek","Bold, vibrant",Bright pink fur contrasts with black ensemble
+2,Ralph Rucci,Fall 2013,Feminine,"White feathered jacket, black turtleneck, black trousers",Black gloves,"Tailored, elegant","Textured, monochrome",Feather details add texture and drama
+3,Ralph Rucci,Fall 2013,Feminine,"Black textured coat, black turtleneck, black trousers",None,"Structured, sleek","Monochrome, textured",All-black look with rich textures

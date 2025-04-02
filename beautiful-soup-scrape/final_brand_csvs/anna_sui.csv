@@ -63,7 +63,7 @@ Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,
 2,Anna Sui,Fall 2016,Feminine,"Patterned suit, blouse",,"Tailored, structured","Vintage, retro","Rich textures, bold colors"
 3,Anna Sui,Fall 2016,Feminine,"Velvet dress, tights",Statement necklace,"Loose, relaxed","Bohemian, luxurious","Intricate embroidery, knee-high boots"
 1,Anna Sui,Fall 2014,Feminine,"Red fur coat, black top, black glitter pants","Red sunglasses, long pendant necklace","Oversized, layered","Bold, glamorous","Rich textures, vibrant red accents"
-2,Anna Sui,Fall 2014,Masculine,"Red blazer with black lapels, graphic t-shirt, red patterned pants",None,"Relaxed, casual","Eclectic, vibrant","Mix of textures, bold prints"
+2,Anna Sui,Fall 2014,Masculine,"Red blazer with black lapels, graphic t-shirt, red patterned pants",,"Relaxed, casual","Eclectic, vibrant","Mix of textures, bold prints"
 3,Anna Sui,Fall 2014,Feminine,"Black embellished tunic, black embellished pants","Red fur stole, long pendant necklace","Flowy, bohemian","Bohemian, ornate","Intricate embellishments, rich detailing"
 1,Anna Sui,Fall 2014,Feminine,"Red and black striped suit, black top","Black scarf, sunglasses","Tailored, elongated","Bold, graphic","Contrasting stripes, sleek look"
 2,Anna Sui,Fall 2014,Feminine,"Embroidered bomber jacket, floral print pants","Red necklace, tassel accessory","Relaxed, flowing","Eclectic, bohemian","Mix of textures, vibrant patterns"
@@ -71,3 +71,12 @@ Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,
 1,Anna Sui,Fall 2014,Masculine,"Patterned blazer, graphic t-shirt, black pants",Textured scarf,"Relaxed, layered","Eclectic, artistic",Mix of textures and prints
 2,Anna Sui,Fall 2014,Feminine,"Graphic tunic, black pants","Knit hat, long necklace, textured scarf","Layered, cozy","Bohemian, whimsical","Intricate patterns, layered accessories"
 3,Anna Sui,Fall 2014,Feminine,"Gold patterned top, black skirt, fur-trimmed coat",Sunglasses,"Structured, elegant","Glamorous, vintage-inspired","Rich textures, metallic accents"
+1,Anna Sui,Fall 2013,Feminine,"Brown textured jacket, red patterned dress, pink blouse","Pink tights, red tie",A-line,"Retro, vibrant","Bold color contrast, geometric patterns"
+2,Anna Sui,Fall 2013,Feminine,"Red patterned cardigan, geometric print dress, burgundy shorts","Patterned knee-high socks, red tie",Relaxed,"Playful, eclectic","Mix of prints, rich color palette"
+3,Anna Sui,Fall 2013,Feminine,"Red and orange dress, matching cardigan","Large pendant necklace, red tights",Straight,"Bohemian, bold","Layered look, statement necklace"
+1,Anna Sui,Fall 2013,Feminine,"Red patterned dress, burgundy coat","Large pendant necklace, red patterned bag","A-line, layered","Retro, vibrant","Bold color palette, 60s inspiration"
+2,Anna Sui,Fall 2013,Feminine,"Striped dress, fur-trimmed jacket","Large pendant necklace, sunglasses","Straight, layered","Eclectic, bold","Mix of textures, futuristic sunglasses"
+3,Anna Sui,Fall 2013,Feminine,"Patterned tunic, geometric pants",Brooch,"Loose, relaxed","Bohemian, colorful","Rich textures, vintage feel"
+1,Anna Sui,Fall 2013,Feminine,"Striped fur coat, blue patterned dress","Blue tights, platform shoes","Boxy, relaxed","Bold, graphic",Mix of textures and patterns
+2,Anna Sui,Fall 2013,Feminine,Blue patterned knit dress,Matching knee-high socks,"Straight, fitted","Retro, geometric","Checkerboard pattern, cohesive color scheme"
+3,Anna Sui,Fall 2013,Feminine,"Checkered dress, crochet vest","Sunglasses, knee-high socks","Playful, layered","Eclectic, vintage-inspired","Mix of prints, playful accessories"

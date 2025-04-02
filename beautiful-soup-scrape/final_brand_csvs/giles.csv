@@ -5,9 +5,12 @@ Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,
 1,Giles,Ready-to-Wear Fall 2014,Feminine,"Printed top, printed skirt","Black tights, black shoes","A-line, relaxed","Graphic, bold","Bird and branch print, vibrant colors"
 2,Giles,Ready-to-Wear Fall 2014,Feminine,Printed dress,"Black tights, brown shoes","Straight, loose","Graphic, bold","Bird and branch print, contrasting trim"
 3,Giles,Ready-to-Wear Fall 2014,Feminine,Black coat with printed sleeves,"Black tights, white and black shoes","Boxy, oversized","Graphic, bold","Bird and branch print on sleeves, monochrome contrast"
-1,Giles,Spring 2014,Feminine,Printed mini dress,None,A-line,"Artistic, bold",Features a large portrait print
-2,Giles,Spring 2014,Feminine,Printed coat dress,None,Straight,"Artistic, bold",Features a large portrait print
-3,Giles,Spring 2014,Feminine,One-shoulder printed gown,None,Flowing,"Artistic, bold",Features a large portrait print
-1,Giles,Spring 2014,Feminine,Printed cape dress,None,"Flowy, voluminous","Artistic, dramatic","Features a large printed artwork, paired with sneakers"
-2,Giles,Spring 2014,Feminine,Strapless printed gown,None,"A-line, flowing","Artistic, ethereal","Large printed artwork, paired with sneakers"
-3,Giles,Spring 2014,Feminine,Spaghetti strap printed dress,None,"Straight, relaxed","Minimalist, artistic","Subtle print, lightweight fabric"
+1,Giles,Spring 2014,Feminine,Printed mini dress,,A-line,"Artistic, bold",Features a large portrait print
+2,Giles,Spring 2014,Feminine,Printed coat dress,,Straight,"Artistic, bold",Features a large portrait print
+3,Giles,Spring 2014,Feminine,One-shoulder printed gown,,Flowing,"Artistic, bold",Features a large portrait print
+1,Giles,Spring 2014,Feminine,Printed cape dress,,"Flowy, voluminous","Artistic, dramatic","Features a large printed artwork, paired with sneakers"
+2,Giles,Spring 2014,Feminine,Strapless printed gown,,"A-line, flowing","Artistic, ethereal","Large printed artwork, paired with sneakers"
+3,Giles,Spring 2014,Feminine,Spaghetti strap printed dress,,"Straight, relaxed","Minimalist, artistic","Subtle print, lightweight fabric"
+1,Giles,Ready-to-Wear Fall 2013,Feminine,Gold floral cut-out dress,Black heels,"A-line, fitted","Ornate, metallic",Leaf detailing at hem
+2,Giles,Ready-to-Wear Fall 2013,Feminine,White dress with gold fringe,"Chunky knit hat, white heels","Loose, voluminous","Eclectic, textured","Metallic fringe, oversized hat"
+3,Giles,Ready-to-Wear Fall 2013,Feminine,Silver floral cut-out dress,Black heels,"Column, fitted","Ornate, metallic",Leaf detailing at hem
