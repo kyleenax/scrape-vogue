@@ -19,8 +19,8 @@ Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,
 3,Chocheng,Fall 2024,Feminine,"Pink and orange jacket, red mini skirt","Red hat, red earrings","Tailored, fitted","Colorful, chic","Color blocking, structured fit"
 1,Chocheng,Fall 2024,Feminine,"Red textured jacket, pink blouse, red shorts",Red hat,"Tailored, fitted","Bold, vibrant","Color-blocking with red and pink, structured shoulders"
 2,Chocheng,Fall 2024,Feminine,"Black textured jacket, black skirt with slit",Wide-brimmed black hat,"Structured, elegant","Classic, sophisticated","Monochrome black, strong shoulder details"
-3,Chocheng,Fall 2024,Feminine,"Black cropped jacket, black high-waisted pants",None,"Sleek, modern","Minimalist, edgy","Deep neckline, modern tailoring"
-1,Chocheng,Fall 2024,Feminine,"Black wrap coat, black trousers",None,"Structured, tailored","Minimalist, elegant","Wide collar, monochrome"
+3,Chocheng,Fall 2024,Feminine,"Black cropped jacket, black high-waisted pants",,"Sleek, modern","Minimalist, edgy","Deep neckline, modern tailoring"
+1,Chocheng,Fall 2024,Feminine,"Black wrap coat, black trousers",,"Structured, tailored","Minimalist, elegant","Wide collar, monochrome"
 2,Chocheng,Fall 2024,Feminine,Black gown with embellished shoulders,"Wide-brim hat, black cuffs","A-line, dramatic","Sophisticated, theatrical","Embellished details, bold hat"
 3,Chocheng,Fall 2024,Feminine,"Sleeveless black coat, pleated skirt",Black cuffs,"Straight, layered","Chic, modern","Pleated skirt, high collar"
 1,Chocheng,Fall 2024,Feminine,"Black tailored jacket, black cropped pants","Black hat, large black earrings","Structured, tailored","Elegant, classic",Monochrome look with strong lines
@@ -35,3 +35,36 @@ Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,
 1,Chocheng,Fall 2024,Feminine,Red sleeveless gown with high slit,"Black wide-brim hat, red earrings, black cuffs","Fitted, asymmetrical","Elegant, dramatic","High slit, bold color"
 2,Chocheng,Fall 2024,Feminine,Red double-breasted coat dress,Black wide-brim hat,"Structured, A-line","Classic, sophisticated","Button detailing, tailored fit"
 3,Chocheng,Fall 2024,Feminine,"Red long-sleeve dress, red trousers",Black wide-brim hat,"Flowing, layered","Chic, modern","Layered look, contrasting textures"
+1,Chocheng,Spring 2021,Feminine,White sleeveless dress with black trim,"Straw hat, black espadrilles",A-line,"Classic, elegant","Contrasting trim, summer vibe"
+2,Chocheng,Spring 2021,Feminine,Black sleeveless dress with white trim,"Straw hat, straw bag, black espadrilles",A-line,"Classic, elegant","Contrasting trim, summer vibe"
+3,Chocheng,Spring 2021,Feminine,Black long-sleeve dress with white trim,"Straw bag, black espadrilles",Fitted,"Classic, elegant","Contrasting trim, structured look"
+1,Chocheng,Spring 2021,Feminine,"White shirt dress, black cardigan","Straw hat, black espadrilles","Straight, relaxed","Classic, elegant","Contrasting black and white, minimal accessories"
+2,Chocheng,Spring 2021,Feminine,Black dress with white trim,"Straw hat, black espadrilles",A-line,"Vintage, chic","Pleated details, bold collar"
+3,Chocheng,Spring 2021,Feminine,"White pleated blouse, black shorts","Straw hat, black espadrilles",Structured,"Sophisticated, tailored","Pleated yoke, monochrome contrast"
+1,Chocheng,Spring 2021,Feminine,Black dress with white collar and sleeves,"Straw hat, black sandals",A-line,"Classic, vintage-inspired",Contrasting collar and cuffs
+2,Chocheng,Spring 2021,Feminine,Gray sleeveless dress,"Straw hat, woven bag, black sandals",Sheath,"Chic, minimalist","Textured fabric, simple lines"
+3,Chocheng,Spring 2021,Feminine,Gray dress with black sleeves and bow,"Straw hat, black sandals",A-line,"Sophisticated, retro","Bow detail, mixed textures"
+1,Chocheng,Spring 2021,Feminine,"Striped sleeveless turtleneck, black pleated skirt","Straw hat, straw bag","A-line, fitted","Chic, nautical",Classic stripes with a modern twist
+2,Chocheng,Spring 2021,Feminine,Black sleeveless dress with bow detail,Straw bag,"A-line, fitted","Elegant, timeless",Subtle ruffle and bow add a feminine touch
+3,Chocheng,Spring 2021,Feminine,"Checked jacket, matching pencil skirt","Straw hat, straw bag","Tailored, structured","Sophisticated, vintage-inspired",Monochrome check pattern with classic tailoring
+1,Chocheng,Spring 2021,Feminine,Black dress with white pleated cuffs and collar,"Straw hat, black espadrilles",A-line,"Classic, monochrome",Houndstooth detail on front
+2,Chocheng,Spring 2021,Feminine,"Black jacket with colorful houndstooth collar, white blouse, black pencil skirt","Straw bag, black espadrilles",Tailored,"Sophisticated, elegant",Double-breasted jacket
+3,Chocheng,Spring 2021,Feminine,Orange coat dress with pleated cuffs,"Straw hat, straw bag, black espadrilles",A-line,"Bold, vibrant",Large button detail on collar
+1,Chocheng,Spring 2021,Feminine,"Black cropped jacket, black pencil skirt","Straw bag, black sandals","Fitted, tailored","Chic, elegant","Sailor collar, bow detail"
+2,Chocheng,Spring 2021,Feminine,"Green pleated blouse, black pleated skirt","Straw hat, black sandals","A-line, structured","Playful, sophisticated","Large collar, pleated details"
+3,Chocheng,Spring 2021,Feminine,"Black double-breasted blazer, black pencil skirt","Straw hat, black sandals","Fitted, classic","Timeless, bold","Colorful lapel pattern, structured shoulders"
+1,Chocheng,Spring 2021,Feminine,"Green dress, black blazer","Straw hat, woven handbag",A-line,"Chic, elegant","Ruffled cuffs, playful yet sophisticated"
+2,Chocheng,Spring 2021,Feminine,"Black jacket with green collar, striped skirt","Straw hat, woven handbag",Tailored,"Classic, nautical","Contrasting patterns, structured look"
+3,Chocheng,Spring 2021,Feminine,"Black blouse with white collar, green pleated skirt",Straw hat,Flowy,"Vintage, refined","Pleated texture, bold collar"
+1,Chocheng,Spring 2021,Feminine,"Striped dress, scarf","Straw hat, straw bag","Relaxed, straight","Casual, nautical","Black and white stripes, summer vibe"
+2,Chocheng,Spring 2021,Feminine,"Black jacket, striped top, pencil skirt","Straw hat, straw bag","Tailored, fitted","Chic, classic","Structured jacket, monochrome look"
+3,Chocheng,Spring 2021,Feminine,Black dress with ruffled collar,"Straw hat, straw bag","A-line, flared","Elegant, sophisticated","Ruffled collar detail, timeless silhouette"
+1,Chocheng,Spring 2021,Feminine,"Black jacket, black skirt","Straw hat, black espadrilles","Tailored, fitted","Classic, elegant","Bow detail on jacket, structured shoulders"
+2,Chocheng,Spring 2021,Feminine,"Black jacket, black skirt with slit","Straw hat, black espadrilles","Tailored, fitted","Classic, elegant","Pleated trim on jacket, high slit"
+3,Chocheng,Spring 2021,Feminine,"Black jacket, black pencil skirt","Straw hat, black espadrilles","Tailored, fitted","Classic, elegant","Short sleeves, bow detail on collar"
+1,Chocheng,Spring 2021,Feminine,"Black embellished jacket, cream blouse, black knee-length shorts","Straw hat, black platform sandals","Structured, tailored","Classic, elegant",Embellished collar and cuffs
+2,Chocheng,Spring 2021,Feminine,Black sleeveless dress,Black platform sandals,"Fitted, streamlined","Chic, sophisticated",Embellished neckline
+3,Chocheng,Spring 2021,Feminine,"Black embellished jacket, black knee-length shorts",Black platform sandals,"Structured, tailored","Classic, elegant",Embellished details on jacket
+1,Chocheng,Spring 2021,Feminine,Black dress with embellished collar and cuffs,Black platform sandals,"A-line, tailored","Elegant, classic",Textured embellishments on collar and cuffs
+2,Chocheng,Spring 2021,Feminine,"Black cropped top with ruffled collar, high-slit skirt",Black platform sandals,"Fitted, flowing","Chic, modern","High slit adds drama, ruffled details"
+3,Chocheng,Spring 2021,Feminine,"Black blazer with embellished lapels, high-slit skirt, crisscross top",Black platform sandals,"Structured, sleek","Sophisticated, bold","Crisscross top adds interest, strong shoulders"

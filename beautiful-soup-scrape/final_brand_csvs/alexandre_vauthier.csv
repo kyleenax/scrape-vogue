@@ -1,10 +1,28 @@
 Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,Style Keywords,Notes
 1,Alexandre Vauthier,Fall 2023,Feminine,"Black top, polka dot ruffled skirt",White sneakers,"Structured top, voluminous skirt","Casual, playful",Contrast between structured top and playful skirt
 2,Alexandre Vauthier,Fall 2023,Feminine,Lime green fur coat,White sneakers,Oversized,"Bold, statement",Dramatic oversized coat with a bold color
-3,Alexandre Vauthier,Fall 2023,Feminine,Silver mirrored dress,None,A-line,"Futuristic, reflective",Reflective material creates a striking visual effect
+3,Alexandre Vauthier,Fall 2023,Feminine,Silver mirrored dress,,A-line,"Futuristic, reflective",Reflective material creates a striking visual effect
 1,Alexandre Vauthier,Fall 2023,Feminine,Embellished denim jacket,Metallic bag,"Relaxed, casual","Edgy, youthful","Outdoor setting, natural light"
 2,Alexandre Vauthier,Fall 2023,Feminine,"Studded leather jacket, studded pants",Sunglasses,"Structured, fitted","Bold, modern","Contrasting textures, urban backdrop"
 3,Alexandre Vauthier,Fall 2023,Feminine,Pink tulle dress,Sunglasses,"Voluminous, dramatic","Romantic, whimsical","Lush setting, vibrant color"
-1,Alexandre Vauthier,Fall 2023,Feminine,"Black strappy dress, oversized fur hood",None,"Dramatic, voluminous","Avant-garde, bold",Statement fur piece
+1,Alexandre Vauthier,Fall 2023,Feminine,"Black strappy dress, oversized fur hood",,"Dramatic, voluminous","Avant-garde, bold",Statement fur piece
 2,Alexandre Vauthier,Fall 2023,Feminine,"Black bodysuit, layered ruffled skirt",White sneakers,"Playful, structured","Whimsical, youthful",Contrast between sporty and elegant
-3,Alexandre Vauthier,Fall 2023,Feminine,"Black glossy shirt, matching pants",None,"Relaxed, sleek","Edgy, modern","High-shine fabric, laid-back elegance"
+3,Alexandre Vauthier,Fall 2023,Feminine,"Black glossy shirt, matching pants",,"Relaxed, sleek","Edgy, modern","High-shine fabric, laid-back elegance"
+1,Alexandre Vauthier,Fall 2016,Feminine,"Black sheer panel dress, thigh-high boots",,"Fitted, bodycon","Edgy, modern","Sheer panels, monochrome"
+2,Alexandre Vauthier,Fall 2016,Feminine,"Red patent leather jacket, red patent leather pants",Black high heels,"Structured, bold","Futuristic, daring","High shine, bold color"
+3,Alexandre Vauthier,Fall 2016,Feminine,Black asymmetrical dress,Black strappy sandals,"Flowing, asymmetrical","Elegant, sophisticated","High slit, one-shoulder design"
+1,Alexandre Vauthier,Fall 2016,Feminine,Olive green asymmetrical dress,Ankle strap heels,"Flowy, asymmetrical","Ethereal, romantic","Ruffled layers, sheer fabric"
+2,Alexandre Vauthier,Fall 2016,Feminine,Black lace dress with high slit,Strappy heels,"Fitted, dramatic","Seductive, elegant","Lace detailing, satin belt"
+3,Alexandre Vauthier,Fall 2016,Feminine,Black patent leather mini dress,,"Structured, bold","Edgy, modern","Glossy finish, deep V-neck"
+1,Alexandre Vauthier,Fall 2016,Feminine,"Red sheer dress, black thigh-high boots",,"Flowy, fitted","Seductive, bold","Deep neckline, sheer fabric"
+2,Alexandre Vauthier,Fall 2016,Feminine,"Red sheer dress, white structured coat, black thigh-high boots",Eyeglasses,"Layered, structured","Chic, sophisticated","Contrasting colors, military-inspired coat"
+3,Alexandre Vauthier,Fall 2016,Feminine,"Black asymmetrical coat-dress, black thigh-high boots",,"Asymmetrical, fitted","Edgy, modern","Gold button details, strong shoulders"
+1,Alexandre Vauthier,Spring 2016,Feminine,"Black blazer, black pants",None,"Tailored, sleek","Chic, modern","Deep V-neckline, minimalist"
+2,Alexandre Vauthier,Spring 2016,Feminine,"Black tank top, black skirt with lace-up detail",None,Fitted,"Edgy, contemporary",Lace-up detail adds texture
+3,Alexandre Vauthier,Spring 2016,Feminine,Black jumpsuit,Metallic belt,Structured,"Sophisticated, bold",Metallic belt accentuates waist
+1,Alexandre Vauthier,Spring 2016,Feminine,"Black leather jacket with fringe, black mini skirt",Black high heels,"Fitted, edgy","Bold, modern",Fringe detailing adds movement
+2,Alexandre Vauthier,Spring 2016,Feminine,Black strapless dress with lace-up back,None,"Flowing, elegant","Chic, sophisticated",Lace-up detail creates a corset effect
+3,Alexandre Vauthier,Spring 2016,Feminine,Asymmetrical nude dress,Strappy high heels,"Draped, sleek","Minimalist, elegant",High slit adds drama
+1,Alexandre Vauthier,Spring 2016,Feminine,White jumpsuit,Red strappy heels,"Relaxed, fitted","Casual, chic",Monochrome look with bold footwear
+2,Alexandre Vauthier,Spring 2016,Feminine,Embellished mini dress,Strappy heels,"Fitted, short","Glamorous, evening","Intricate detailing, metallic shine"
+3,Alexandre Vauthier,Spring 2016,Feminine,"Leather jacket, fringed skirt",Black strappy heels,"Slim, edgy","Rock, modern","Fringe details, leather texture"

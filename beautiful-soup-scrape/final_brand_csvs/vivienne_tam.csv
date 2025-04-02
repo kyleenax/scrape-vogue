@@ -24,5 +24,23 @@ Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,
 2,Vivienne Tam,Fall 2009,Feminine,"Purple textured top, red pencil skirt, black tights",Red heels,"Fitted, structured","Chic, modern","Textured top, contrasting colors"
 3,Vivienne Tam,Fall 2009,Feminine,"Purple textured dress, red belt, black tights",Purple heels,"Fitted, sleek","Sophisticated, contemporary","Textured fabric, bold belt"
 1,Vivienne Tam,Fall 2009,Feminine,"Red textured sleeveless top, purple ruffled skirt",Silver belt,A-line,"Textured, vibrant","Contrasting textures, bold color mix"
-2,Vivienne Tam,Fall 2009,Feminine,"Red tailored jacket, matching skirt",None,Structured,"Classic, tailored","Monochrome look, strong shoulders"
-3,Vivienne Tam,Fall 2009,Feminine,Teal strapless dress,None,Fitted,"Elegant, modern","Satin finish, asymmetrical detail"
+2,Vivienne Tam,Fall 2009,Feminine,"Red tailored jacket, matching skirt",,Structured,"Classic, tailored","Monochrome look, strong shoulders"
+3,Vivienne Tam,Fall 2009,Feminine,Teal strapless dress,,Fitted,"Elegant, modern","Satin finish, asymmetrical detail"
+1,Vivienne Tam,Spring 2016,Feminine,"Striped strapless top, striped wide-leg pants",Slip-on sneakers,"Relaxed, flowy","Casual, modern","Ruffle detail on top, monochrome stripes"
+2,Vivienne Tam,Spring 2016,Feminine,Striped wrap dress with ruffled sleeves,Slip-on sneakers,"A-line, relaxed","Casual, modern","Large floral applique, monochrome stripes"
+3,Vivienne Tam,Spring 2016,Masculine,"Short-sleeve shirt with ruffle detail, cropped pants",Slip-on sneakers,"Straight, relaxed","Casual, modern","Mesh panel on shirt, monochrome look"
+1,Vivienne Tam,Spring 2016,Feminine,"Striped jumpsuit with floral embroidery, white collar",,"Relaxed, straight","Casual, contemporary",Monochrome stripes with floral details
+2,Vivienne Tam,Spring 2016,Feminine,Black sleeveless dress with graphic print,,A-line,"Minimalist, graphic",Bold graphic print on the front
+3,Vivienne Tam,Spring 2016,Feminine,Mesh dress with floral appliqué,,A-line,"Textured, playful",Mesh overlay with contrasting floral appliqué
+1,Vivienne Tam,Spring 2016,Feminine,"Black and white embroidered bomber jacket, polka dot shirt, ruffled skirt",,"Layered, relaxed","Graphic, sporty","Mix of patterns, monochrome palette"
+2,Vivienne Tam,Spring 2016,Feminine,White sleeveless dress with red graphic print,,"A-line, fitted","Casual, artistic","Bold graphic print, minimal accessories"
+3,Vivienne Tam,Spring 2016,Feminine,"Mesh bomber jacket, printed dress",,"Layered, structured","Graphic, contemporary","Mesh texture, bold face print"
+1,Vivienne Tam,Spring 2015,Feminine,White mini dress with mesh sleeves,"Small clutch, platform sandals",A-line,"Modern, minimal","Keyhole neckline, sporty elements"
+2,Vivienne Tam,Spring 2015,Feminine,White mini dress,"Blue shoulder bag, platform sandals",A-line,"Chic, clean","Subtle texture, contrast bag"
+3,Vivienne Tam,Spring 2015,Feminine,"Striped blouse, embroidered skirt","Two-tone shoulder bag, platform sandals",Straight,"Eclectic, artistic","Floral embroidery, mixed patterns"
+1,Vivienne Tam,Spring 2015,Feminine,White sleeveless dress with floral embroidery,Black and white sandals,A-line,"Floral, embroidered",Bamboo and floral motifs
+2,Vivienne Tam,Spring 2015,Feminine,"Mesh top with bird and floral embroidery, striped shorts","White sandals, clutch",Relaxed,"Layered, casual",Bird and floral motifs
+3,Vivienne Tam,Spring 2015,Feminine,Striped and floral dress,"Beige tote, black and white sandals",A-line,"Mixed patterns, embroidered",Bamboo and floral motifs
+1,Vivienne Tam,Spring 2015,Feminine,"Embroidered jacket, red top, floral shorts",Strappy sandals,"Casual, relaxed","Floral, sporty","Mix of textures, vibrant colors"
+2,Vivienne Tam,Spring 2015,Feminine,"Floral tunic, matching shorts",Strappy sandals,"Loose, comfortable","Botanical, coordinated","All-over print, easy fit"
+3,Vivienne Tam,Spring 2015,Feminine,Embroidered maxi dress,Minimal accessories,"Flowy, elegant","Ornate, detailed","Intricate embroidery, nature motifs"

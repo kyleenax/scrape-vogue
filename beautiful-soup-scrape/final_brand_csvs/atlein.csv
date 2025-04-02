@@ -1,10 +1,19 @@
 Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,Style Keywords,Notes
-1,Atlein,Spring 2024,Feminine,"Black lace bralette, black cropped pants",None,"Fitted, cropped","Minimalist, sleek",Knot details on pants
-2,Atlein,Spring 2024,Feminine,Black off-shoulder ruched dress,None,"Fitted, short","Elegant, modern","Ruched texture, off-shoulder design"
-3,Atlein,Spring 2024,Feminine,Black sheer patterned dress,None,"Flowing, long","Dramatic, bold","Sheer fabric, intricate pattern"
+1,Atlein,Spring 2024,Feminine,"Black lace bralette, black cropped pants",,"Fitted, cropped","Minimalist, sleek",Knot details on pants
+2,Atlein,Spring 2024,Feminine,Black off-shoulder ruched dress,,"Fitted, short","Elegant, modern","Ruched texture, off-shoulder design"
+3,Atlein,Spring 2024,Feminine,Black sheer patterned dress,,"Flowing, long","Dramatic, bold","Sheer fabric, intricate pattern"
 1,Atlein,Spring 2024,Feminine,"Sheer black top, patterned black shorts",Black strappy heels,"Fitted, sheer","Edgy, modern","Sheer layering, minimal accessories"
 2,Atlein,Spring 2024,Feminine,"Orange twisted crop top, black high-slit skirt",Black heels,"Fitted, asymmetrical","Chic, contemporary","Bold color contrast, twisted fabric detail"
 3,Atlein,Spring 2024,Feminine,Orange one-shoulder dress,Black heels,"Fitted, draped","Elegant, sophisticated","Pleated texture, asymmetrical neckline"
 1,Atlein,Spring 2024,Feminine,"Black sheer top, black mini skirt",Black open-toe heels,"Fitted, asymmetric","Sheer, edgy","Cold shoulder detail, minimalistic"
 2,Atlein,Spring 2024,Feminine,"Black satin jacket, black bodysuit",White open-toe heels,"Fitted, layered","Sleek, modern","Textured bodysuit, cinched waist"
 3,Atlein,Spring 2024,Feminine,"Black off-shoulder crop top, orange pleated pants",Brown strappy heels,"Streamlined, fitted","Bold, contemporary","Contrast colors, pleated texture"
+1,Atlein,Fall 2017,Feminine,"Gray knit top, gray knit skirt, draped gray fabric","Statement earrings, black ankle boots","Fitted, draped","Elegant, sophisticated",Monochrome look with draped detailing
+2,Atlein,Fall 2017,Feminine,"Navy knit top, navy mini skirt, draped navy fabric",Black ankle boots,"Fitted, mini","Chic, modern",Monochrome look with asymmetrical draping
+3,Atlein,Fall 2017,Feminine,Gray tailored coat dress,Black lace-up ankle boots,"Tailored, structured","Sleek, minimalist",Sharp tailoring with a modern edge
+1,Atlein,Fall 2017,Feminine,"Beige sleeveless top, black high-waisted pants",None,"Slim, elongated","Minimalist, sleek","Neutral tones, fitted pants"
+2,Atlein,Fall 2017,Feminine,Burgundy sleeveless dress,None,"Asymmetrical, fitted","Elegant, modern","Rich color, asymmetrical hem"
+3,Atlein,Fall 2017,Feminine,"Black sweater, black pants",None,"Slim, streamlined","Monochrome, chic","Textured knit, tonal look"
+1,Atlein,Fall 2017,Feminine,"Black knit sweater, black ribbed skirt",Black ankle boots,"Fitted, streamlined","Minimalist, elegant","Monochrome, ribbed texture"
+2,Atlein,Fall 2017,Feminine,White ribbed turtleneck dress,Black knee-high boots,"Fitted, streamlined","Minimalist, elegant","Monochrome, ribbed texture"
+3,Atlein,Fall 2017,Feminine,Black double-breasted coat,Black knee-high boots,"Structured, tailored","Minimalist, sophisticated","High collar, button details"

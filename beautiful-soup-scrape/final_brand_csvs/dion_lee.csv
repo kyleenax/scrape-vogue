@@ -1,5 +1,5 @@
 Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,Style Keywords,Notes
-1,Dion Lee,Fall 2012,Feminine,"Sheer white blouse, white layered skirt, sheer wide-leg pants",None,"Flowy, ethereal","Minimalist, monochrome","Delicate layering, sheer textures"
+1,Dion Lee,Fall 2012,Feminine,"Sheer white blouse, white layered skirt, sheer wide-leg pants",,"Flowy, ethereal","Minimalist, monochrome","Delicate layering, sheer textures"
 2,Dion Lee,Fall 2012,Feminine,"Black cut-out blazer, sheer wide-leg pants",Black headpiece,"Structured, sleek","Edgy, modern","Cut-out details, strong shoulders"
 3,Dion Lee,Fall 2012,Feminine,"Black blazer, sheer long skirt",Black headpiece,"Structured, flowy","Chic, contemporary","Asymmetrical design, sheer overlay"
 1,Dion Lee,Fall 2012,Feminine,Black cut-out dress,Strappy black heels,"Fitted, bodycon","Edgy, modern","Cut-out details, asymmetrical design"
@@ -8,3 +8,12 @@ Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,
 1,Dion Lee,Fall 2012,Feminine,Black cut-out dress,Black ankle-strap heels,"Fitted, structured","Edgy, modern","Geometric cut-outs, sleek design"
 2,Dion Lee,Fall 2012,Feminine,Silver ruched dress,Black ankle-strap heels,"Fitted, fluid","Futuristic, sleek","Textured fabric, metallic sheen"
 3,Dion Lee,Fall 2012,Feminine,Silver and black panel dress,Black ankle-strap heels,"Fitted, structured","Graphic, contemporary","Contrast paneling, streamlined shape"
+1,Dion Lee,Fall 2017,Feminine,"Beige coat dress with black accents, long sleeves",None,"Structured, tailored","Modern, sleek","Contrasting black details, minimalistic design"
+2,Dion Lee,Fall 2017,Feminine,"Beige blazer with black lapel, wide-leg pants",None,"Relaxed, elongated","Chic, contemporary","Deep V-neck, asymmetrical hem"
+3,Dion Lee,Fall 2017,Feminine,"Black turtleneck, beige midi skirt with black pockets",Silver chain strap,"Fitted top, A-line skirt","Edgy, sophisticated","Geometric strap detail, high contrast"
+1,Dion Lee,Fall 2017,Feminine,"Beige structured jacket, black mini skirt",Black belt with silver buckle,"Structured, tailored","Modern, utilitarian","Strong shoulders, monochrome contrast"
+2,Dion Lee,Fall 2017,Feminine,"Beige sleeveless dress, black turtleneck, black pants with white stripes",Black belt with silver buckle,"Layered, sleek","Sporty, chic",Layering with sporty elements
+3,Dion Lee,Fall 2017,Feminine,"Black sleeveless dress with embellishments, beige long-sleeve top, beige pants with black stripes",None,"Fitted, layered","Edgy, contemporary","Textured embellishments, contrast layering"
+1,Dion Lee,Fall 2017,Feminine,"Black ribbed sweater, leather culottes","Leather strap bag, black boots","Relaxed, layered","Edgy, modern",Contrasting pocket details
+2,Dion Lee,Fall 2017,Feminine,"Black ribbed sweater, pleated leather skirt","Sunglasses, lace-up boots","Structured, flowing","Chic, contemporary",Asymmetrical pocket design
+3,Dion Lee,Fall 2017,Feminine,Velvet slip dress,"Oversized glasses, lace-up boots","Fluid, elegant","Sophisticated, sleek","Velvet texture, pleated skirt"

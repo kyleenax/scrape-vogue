@@ -17,12 +17,21 @@ Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,
 1,Eckhaus Latta,Spring 2022,Masculine,"Black cut-out top, neon green pants",Black boots,"Fitted top, loose pants","Edgy, modern","Cut-out details, bold color contrast"
 2,Eckhaus Latta,Spring 2022,Feminine,Black cut-out dress,Yellow ankle boots,Fitted,"Chic, contemporary","Asymmetrical cut, contrasting stitching"
 3,Eckhaus Latta,Spring 2022,Feminine,"Black sleeveless top, sheer draped skirt",Black ankle boots,Draped,"Avant-garde, layered","Sheer fabric, asymmetrical draping"
-1,Eckhaus Latta,Fall 2021,Gender Neutral,"Sheer knit top, wrap skirt, leggings",None,"Fitted, layered","Textured, monochrome","Subtle color gradient, long sleeves"
-2,Eckhaus Latta,Fall 2021,Gender Neutral,"Crop top, high-waisted pants",None,Fitted,"Psychedelic, bold","Zebra print, high contrast"
-3,Eckhaus Latta,Fall 2021,Gender Neutral,"Sequin top, quilted wrap skirt",None,"Boxy, layered","Contrasting textures, modern","Shimmering fabric, asymmetrical cut"
-1,Eckhaus Latta,Fall 2021,Masculine,"Patterned turtleneck, brown pants",None,"Relaxed, fitted","Psychedelic, casual",Bold pattern on top
+1,Eckhaus Latta,Fall 2021,Gender Neutral,"Sheer knit top, wrap skirt, leggings",,"Fitted, layered","Textured, monochrome","Subtle color gradient, long sleeves"
+2,Eckhaus Latta,Fall 2021,Gender Neutral,"Crop top, high-waisted pants",,Fitted,"Psychedelic, bold","Zebra print, high contrast"
+3,Eckhaus Latta,Fall 2021,Gender Neutral,"Sequin top, quilted wrap skirt",,"Boxy, layered","Contrasting textures, modern","Shimmering fabric, asymmetrical cut"
+1,Eckhaus Latta,Fall 2021,Masculine,"Patterned turtleneck, brown pants",,"Relaxed, fitted","Psychedelic, casual",Bold pattern on top
 2,Eckhaus Latta,Fall 2021,Feminine,"Patchwork sweater, sequin skirt",Sunglasses,"Fitted, draped","Eclectic, shimmering",Mix of textures and patterns
 3,Eckhaus Latta,Fall 2021,Feminine,"Chunky knit sweater, knit skirt",Knit hood,"Oversized, cozy","Textured, layered",Monochrome knit ensemble
-1,Eckhaus Latta,Fall 2021,Masculine,"Gray oversized jacket, white ribbed sweater, gray pants",None,"Loose, relaxed","Casual, utilitarian","Textured fabric, layered look"
-2,Eckhaus Latta,Fall 2021,Feminine,"White ribbed tank top, patchwork knit pants",None,"Slim, elongated","Eclectic, cozy","Mixed textures, asymmetrical hem"
-3,Eckhaus Latta,Fall 2021,Masculine,"White knit sweater with brown detail, black leather pants",None,"Fitted, sleek","Edgy, modern","Contrast textures, layered knit"
+1,Eckhaus Latta,Fall 2021,Masculine,"Gray oversized jacket, white ribbed sweater, gray pants",,"Loose, relaxed","Casual, utilitarian","Textured fabric, layered look"
+2,Eckhaus Latta,Fall 2021,Feminine,"White ribbed tank top, patchwork knit pants",,"Slim, elongated","Eclectic, cozy","Mixed textures, asymmetrical hem"
+3,Eckhaus Latta,Fall 2021,Masculine,"White knit sweater with brown detail, black leather pants",,"Fitted, sleek","Edgy, modern","Contrast textures, layered knit"
+1,Eckhaus Latta,Spring 2021,Feminine,"Yellow long-sleeve top, crochet skirt","Face mask, clear sandals","Fitted top, flowing skirt","Eclectic, bohemian","Mix of textures, casual yet artistic"
+2,Eckhaus Latta,Spring 2021,Feminine,Yellow mini dress,"Face mask, clear sandals",Fitted,"Minimalist, sporty","Simple lines, casual elegance"
+3,Eckhaus Latta,Spring 2021,Feminine,"Crochet top, crochet skirt","Face mask, clear sandals","Loose, flowing","Artistic, handcrafted","Intricate crochet work, airy feel"
+1,Eckhaus Latta,Spring 2021,Feminine,"Crochet halter top, tie-dye pants",Orange face mask,"Relaxed, flowing","Bohemian, casual","Earthy tones, textured knit"
+2,Eckhaus Latta,Spring 2021,Masculine,"Brown striped open shirt, matching pants",Brown face mask,"Loose, relaxed","Casual, laid-back","Exposed chest, drawstring detail"
+3,Eckhaus Latta,Spring 2021,Feminine,"Floral print sleeveless top, matching pants",Floral face mask,"Straight, relaxed","Bold, floral",Coordinated mask and outfit
+1,Eckhaus Latta,Spring 2021,Masculine,Orange sleeveless zip-up dress,"Orange face mask, glasses","Straight, relaxed","Casual, utilitarian","Features patch pockets, monochrome look"
+2,Eckhaus Latta,Spring 2021,Feminine,"Orange and black checkered dress, matching shorts",Orange face mask,"Flowy, layered","Casual, summery","High slit, spaghetti straps"
+3,Eckhaus Latta,Spring 2021,Masculine,"Green short-sleeve top, two-tone pants",Orange face mask,"Relaxed, straight","Casual, modern","Patch pockets, color contrast"

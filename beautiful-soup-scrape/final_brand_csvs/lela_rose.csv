@@ -11,12 +11,21 @@ Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,
 1,Lela Rose,Spring 2022,Feminine,"Yellow knit dress, white sleeveless dress",None visible,"Fitted, A-line","Romantic, elegant","Textured knit, pleated details"
 2,Lela Rose,Spring 2022,Feminine,Yellow pleated dress,Pearl hair clips,"Flowy, A-line","Soft, feminine","Pleated fabric, delicate texture"
 3,Lela Rose,Spring 2022,Feminine,Floral strapless gown,Pearl hair clips,Ballgown,"Floral, dramatic","Large bow detail, watercolor print"
-1,Lela Rose,Fall 2010,Feminine,"Patterned blouse, navy skirt",None,A-line,"Chic, modern","Textured fabric, structured top"
+1,Lela Rose,Fall 2010,Feminine,"Patterned blouse, navy skirt",,A-line,"Chic, modern","Textured fabric, structured top"
 2,Lela Rose,Fall 2010,Feminine,"Striped sweater, textured pants, navy jacket",Chunky knit scarf,Relaxed,"Casual, cozy","Layered knitwear, textured pants"
-3,Lela Rose,Fall 2010,Feminine,"Orange coat, black top, printed skirt",None,Boxy,"Bold, eclectic","Bright outerwear, mixed prints"
+3,Lela Rose,Fall 2010,Feminine,"Orange coat, black top, printed skirt",,Boxy,"Bold, eclectic","Bright outerwear, mixed prints"
 1,Lela Rose,Fall 2010,Feminine,"Orange zip-front dress, black tights",None visible,"Straight, relaxed","Chic, modern","Bright color, minimal accessories"
 2,Lela Rose,Fall 2010,Feminine,"Printed jacket, magenta top, dark trousers",Statement necklace,"Tailored, structured","Eclectic, bold","Mix of textures, statement necklace"
 3,Lela Rose,Fall 2010,Feminine,"Striped sweater, black skirt, black tights",Chunky knit scarf,"A-line, layered","Cozy, casual","Layered knits, textured scarf"
 1,Lela Rose,Fall 2010,Feminine,"Navy textured jacket, orange top, gold skirt","Black tights, black ankle boots",A-line,"Layered, textured",Mix of textures with a pop of color
 2,Lela Rose,Fall 2010,Feminine,"Yellow jacket, printed blouse, brown trousers",Cut-out ankle boots,"Relaxed, tailored","Bold, eclectic",Bright outerwear with a playful print
 3,Lela Rose,Fall 2010,Feminine,Printed dress,"Black tights, black ankle boots",Fitted,"Artistic, modern",Unique print with structured silhouette
+1,Lela Rose,Fall 2017,Feminine,"Pink coat, white blouse, printed skirt",None,"Layered, A-line","Chic, elegant",Soft pastel tones with bold print
+2,Lela Rose,Fall 2017,Feminine,Teal printed dress,"Pearl necklace, black headband",Fit and flare,"Playful, retro",Textured fabric with floral motifs
+3,Lela Rose,Fall 2017,Feminine,Printed jumpsuit,Headscarf,Wide-leg,"Vintage-inspired, sophisticated",Monochrome print with structured collar
+1,Lela Rose,Fall 2017,Feminine,"Teal patterned dress, white blouse with black collar",Black headband,A-line,"Elegant, vintage-inspired","Rich fabric, playful print"
+2,Lela Rose,Fall 2017,Feminine,"Black patterned top, matching pants",Black headband,Fitted,"Chic, coordinated","Off-shoulder detail, monochrome look"
+3,Lela Rose,Fall 2017,Feminine,"Navy patterned strapless top, matching pants, white blouse",Black headband,Peplum,"Sophisticated, layered","Floral collar detail, structured silhouette"
+1,Lela Rose,Fall 2017,Feminine,"Pink dress with flared sleeves, black fur collar",Black headband with pink details,A-line,"Elegant, vintage-inspired",Soft pink with black accents
+2,Lela Rose,Fall 2017,Feminine,Black floral embroidered sheer dress,Black headband,Flowy,"Romantic, whimsical",Sheer fabric with floral embroidery
+3,Lela Rose,Fall 2017,Feminine,"Black dress with floral embroidery, white collared shirt",None,Straight,"Chic, sophisticated","Floral embroidery at hem, layered with shirt"
