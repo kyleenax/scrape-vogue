@@ -17,12 +17,21 @@ Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,
 1,Zac Posen,Spring 2010,Feminine,"Blue and purple satin dress, blue tights","Statement necklace, earrings",Fit and flare,"Elegant, playful","Color-blocking, asymmetrical neckline"
 2,Zac Posen,Spring 2010,Feminine,"Blue lattice coat with feathered sleeves, striped dress",Feathered shoes,"Structured, voluminous","Avant-garde, bold","Textured sleeves, geometric cutouts"
 3,Zac Posen,Spring 2010,Feminine,"Green and black fitted blazer, black trousers",Neck scarf,Tailored,"Chic, modern","Color contrast, sleek lines"
-1,Zac Posen,Fall 2015,Feminine,Red pleated dress,None,"A-line, fitted bodice","Elegant, classic","Rich color, minimal accessories"
-2,Zac Posen,Fall 2015,Feminine,"Red embellished vest, red trousers, red coat",None,"Tailored, straight-leg","Sophisticated, layered",Intricate detailing on vest
+1,Zac Posen,Fall 2015,Feminine,Red pleated dress,,"A-line, fitted bodice","Elegant, classic","Rich color, minimal accessories"
+2,Zac Posen,Fall 2015,Feminine,"Red embellished vest, red trousers, red coat",,"Tailored, straight-leg","Sophisticated, layered",Intricate detailing on vest
 3,Zac Posen,Fall 2015,Feminine,"Red pencil skirt, orange fur jacket",Oversized sunglasses,"Structured, fitted","Chic, bold","Contrasting textures, statement sunglasses"
-1,Zac Posen,Fall 2015,Feminine,Red midi dress,None,"A-line, fitted","Elegant, classic",Minimalist design with subtle detailing
+1,Zac Posen,Fall 2015,Feminine,Red midi dress,,"A-line, fitted","Elegant, classic",Minimalist design with subtle detailing
 2,Zac Posen,Fall 2015,Feminine,"Red long-sleeve top, red sequin skirt",Red fur scarf,"Fitted, pencil","Sophisticated, glamorous",Shimmering texture on skirt
 3,Zac Posen,Fall 2015,Feminine,Orange midi dress,"Red fur scarf, oversized sunglasses","A-line, fitted","Bold, chic",Vibrant color with statement accessories
 1,Zac Posen,Fall 2015,Feminine,"Burgundy fur coat, orange turtleneck, burgundy pants",Oversized sunglasses,Tailored,"Elegant, luxurious","Rich color palette, plush textures"
-2,Zac Posen,Fall 2015,Feminine,Red lace dress,None,Fitted,"Sophisticated, feminine","Intricate lace detailing, vibrant color"
+2,Zac Posen,Fall 2015,Feminine,Red lace dress,,Fitted,"Sophisticated, feminine","Intricate lace detailing, vibrant color"
 3,Zac Posen,Fall 2015,Feminine,"Teal coat, teal dress","Oversized sunglasses, fur scarf",Straight,"Chic, modern","Monochrome look, sleek lines"
+1,Zac Posen,Fall 2006,Feminine,"Black double-breasted coat, black cropped pants",Black peep-toe heels,"Structured, fitted","Chic, classic",Strong shoulder emphasis
+2,Zac Posen,Fall 2006,Feminine,Plaid dress with puff sleeves,"Black belt, black knee-high boots","A-line, flowy","Playful, retro","Plaid pattern, cinched waist"
+3,Zac Posen,Fall 2006,Feminine,"Black fitted jacket, black pencil skirt","Black ankle boots, gold bracelet","Tailored, sleek","Elegant, sophisticated","Monochrome look, minimal accessories"
+1,Zac Posen,Fall 2006,Feminine,"Black V-neck top, plaid wide-leg pants",Black handbag,"Fitted top, wide-leg pants","Chic, sophisticated",Monochrome look with subtle pattern
+2,Zac Posen,Fall 2006,Feminine,Black sleeveless mini dress,None visible,"Slim, short","Elegant, minimal",Classic little black dress
+3,Zac Posen,Fall 2006,Feminine,Black halter mini dress,None visible,Flared skirt,"Youthful, flirty",Playful silhouette with movement
+1,Zac Posen,Fall 2006,Feminine,"Black hooded top, black lattice skirt",Black ankle boots,"A-line, voluminous","Dramatic, edgy","Hood adds mystery, textured skirt"
+2,Zac Posen,Fall 2006,Feminine,"Black fur-trimmed jacket, black pants",Black strappy heels,"Slim, tailored","Chic, sophisticated","Fur details, sleek silhouette"
+3,Zac Posen,Fall 2006,Feminine,"Black double-breasted jacket, black pleated skirt",Black ankle boots,"Structured, classic","Elegant, polished","Double-breasted design, pleated texture"

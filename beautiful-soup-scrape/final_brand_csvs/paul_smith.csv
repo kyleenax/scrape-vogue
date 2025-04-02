@@ -8,12 +8,30 @@ Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,
 1,Paul Smith,Spring 2012,Feminine,Taupe wrap dress with lace detail,"Tan hat, sunglasses, leopard print ankle boots","Relaxed, knee-length","Chic, effortless","Subtle lace detail, animal print shoes"
 2,Paul Smith,Spring 2012,Feminine,"Cream blouse, yellow midi skirt","Tan hat, brown belt, white loafers","A-line, flowy","Bright, casual","Vibrant skirt, classic loafers"
 3,Paul Smith,Spring 2012,Feminine,"Yellow top, black wide-leg trousers","Orange hat, brown belt, red handbag, brown loafers","Relaxed, wide-leg","Playful, modern","Contrasting colors, structured handbag"
-1,Paul Smith,Fall 2014,Feminine,"Striped pajama-style shirt, patterned trousers",None,Relaxed,Eclectic,Contrasting patterns
-2,Paul Smith,Fall 2014,Feminine,Paisley wrap dress,None,Flowing,Bohemian,Deep V-neck
-3,Paul Smith,Fall 2014,Feminine,"Patterned pajama-style shirt, striped trousers",None,Relaxed,Eclectic,Mix of prints
+1,Paul Smith,Fall 2014,Feminine,"Striped pajama-style shirt, patterned trousers",,Relaxed,Eclectic,Contrasting patterns
+2,Paul Smith,Fall 2014,Feminine,Paisley wrap dress,,Flowing,Bohemian,Deep V-neck
+3,Paul Smith,Fall 2014,Feminine,"Patterned pajama-style shirt, striped trousers",,Relaxed,Eclectic,Mix of prints
 1,Paul Smith,Fall 2014,Feminine,"Patterned short-sleeve top, floral midi skirt",Black loafers,"Relaxed, flowing","Eclectic, vibrant",Mix of paisley and floral prints
-2,Paul Smith,Fall 2014,Feminine,"Floral bomber jacket, paisley wide-leg pants",None,"Loose, layered","Bold, mixed prints",Contrasting patterns with a sporty touch
+2,Paul Smith,Fall 2014,Feminine,"Floral bomber jacket, paisley wide-leg pants",,"Loose, layered","Bold, mixed prints",Contrasting patterns with a sporty touch
 3,Paul Smith,Fall 2014,Feminine,Sleeveless floral dress with sheer top,Black loafers,"Flowing, layered","Colorful, geometric",Patchwork design with sheer detailing
-1,Paul Smith,Fall 2014,Feminine,"Striped robe coat, patterned trousers, printed shirt",None,"Relaxed, layered","Eclectic, bold",Mix of patterns and textures
+1,Paul Smith,Fall 2014,Feminine,"Striped robe coat, patterned trousers, printed shirt",,"Relaxed, layered","Eclectic, bold",Mix of patterns and textures
 2,Paul Smith,Fall 2014,Feminine,"Paisley print top, striped skirt, floral skirt",Loafers,"Loose, flowing","Bohemian, vibrant",Contrasting prints with a casual feel
 3,Paul Smith,Fall 2014,Feminine,"Striped pajama-style shirt, patterned trousers",Silk scarf,"Casual, tailored","Chic, relaxed",Pajama-inspired look with a mix of patterns
+1,Paul Smith,Fall 2007,Feminine,"Beige sweater, white shirt, black shorts",Pearl necklace,"Relaxed, layered","Casual, chic","Layered shirt cuffs, classic pearls"
+2,Paul Smith,Fall 2007,Feminine,"Cream sweater, brown shorts",Pearl necklace,"Relaxed, layered","Casual, chic","Layered collar, neutral tones"
+3,Paul Smith,Fall 2007,Feminine,"Brown sweater, beige shirt, plaid trousers",Pearl necklace,"Relaxed, layered","Casual, chic","Plaid pattern, warm tones"
+1,Paul Smith,Fall 2007,Feminine,"Black and white sweater, black wide-leg trousers",,"Relaxed, wide-leg","Monochrome, casual",Contrasting knit pattern
+2,Paul Smith,Fall 2007,Feminine,"Black dress with white accents, ruffled skirt",,"A-line, layered","Romantic, vintage-inspired","Ruffled layers, contrasting collar"
+3,Paul Smith,Fall 2007,Feminine,"White cardigan, striped blouse, pinstripe trousers",,"Relaxed, tailored","Classic, menswear-inspired",Monogram detail on cardigan
+1,Paul Smith,Fall 2007,Feminine,"Black coat, patterned dress",,"Structured, layered","Classic, elegant","Double-breasted coat, neutral tones"
+2,Paul Smith,Fall 2007,Feminine,"Black coat with fur collar, blouse",,Tailored,"Sophisticated, chic","Fur detailing, bold shoes"
+3,Paul Smith,Fall 2007,Feminine,"Olive cardigan dress, white blouse",,"Relaxed, layered","Casual, stylish","Contrasting colors, button details"
+1,Paul Smith,Spring 2007,Androgynous,"Navy blazer, blue shirt, white shorts","Yellow loafers, white pocket square","Relaxed, tailored","Casual, sporty",Bright footwear adds a pop of color
+2,Paul Smith,Spring 2007,Androgynous,"Navy blazer, white shirt, white pants",Red sneakers,"Relaxed, tailored","Casual, sporty",Visible waistband detail
+3,Paul Smith,Spring 2007,Androgynous,"Pink blazer, white shirt, gray shorts",Green loafers,"Relaxed, tailored","Casual, sporty",Soft color palette with pastel tones
+1,Paul Smith,Spring 2007,Feminine,"Light blue blazer, striped shorts",Pink loafers,"Relaxed, tailored","Casual, chic","Soft color palette, mix of formal and casual"
+2,Paul Smith,Spring 2007,Feminine,"Beige sweater vest, blue shirt, light blue trousers",Brown loafers,"Relaxed, tailored","Preppy, classic","Layered look, neutral tones"
+3,Paul Smith,Spring 2007,Feminine,"Beige sweater, striped shorts","Red loafers, purple belt","Relaxed, casual","Effortless, youthful","Playful color accents, comfortable fit"
+1,Paul Smith,Spring 2007,Feminine,"Green sleeveless cardigan, pink trousers","Yellow handbag, pink shoes","Relaxed, casual","Colorful, playful",Bright color blocking
+2,Paul Smith,Spring 2007,Feminine,"Green V-neck sweater, gray trousers",Brown sandals,"Relaxed, casual","Minimalist, chic",Simple layering with a pop of color
+3,Paul Smith,Spring 2007,Feminine,"Purple sweater, pink collared shirt, white trousers","Patterned handbag, brown loafers","Relaxed, casual","Preppy, colorful",Layered tops with contrasting colors

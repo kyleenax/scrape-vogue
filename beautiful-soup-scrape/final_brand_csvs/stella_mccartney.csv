@@ -31,7 +31,25 @@ Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,
 3,Stella McCartney,Fall 2016,Feminine,Rust lace and pleated dress,None visible,"Flowy, elongated","Romantic, delicate","Lace detailing, soft pleats"
 1,Stella McCartney,Fall 2016,Feminine,"Brown puffer coat, gray shirt, black quilted shorts",White pointed flats,"Oversized, layered","Casual, sporty",Mix of textures with a focus on warmth
 2,Stella McCartney,Fall 2016,Feminine,"Gray blazer, silver top, swan print pants",Single earring,"Relaxed, tailored","Eclectic, chic",Playful print with metallic accents
-3,Stella McCartney,Fall 2016,Feminine,Pink ruffled dress,None,"Flowy, voluminous","Romantic, bold",Bright color with soft ruffle details
+3,Stella McCartney,Fall 2016,Feminine,Pink ruffled dress,,"Flowy, voluminous","Romantic, bold",Bright color with soft ruffle details
 1,Stella McCartney,Fall 2016,Feminine,"Black wrap coat, black pants",Black handbag,"Relaxed, draped","Chic, understated",Monochrome look with subtle texture
-2,Stella McCartney,Fall 2016,Feminine,"Denim jacket, blue shirt, gray wide-leg pants",None,"Oversized, layered","Casual, contemporary",Denim on denim with a relaxed fit
+2,Stella McCartney,Fall 2016,Feminine,"Denim jacket, blue shirt, gray wide-leg pants",,"Oversized, layered","Casual, contemporary",Denim on denim with a relaxed fit
 3,Stella McCartney,Fall 2016,Feminine,"Black peplum top, metallic pleated skirt",Red statement earring,"Fitted top, flowing skirt","Elegant, modern",Contrast of textures with a statement accessory
+1,Stella McCartney,Fall 2006,Feminine,"Gray oversized cape, gray tights",,"A-line, oversized","Cozy, minimalist","Textured sleeves, high-low hem"
+2,Stella McCartney,Fall 2006,Feminine,"Gray knit wrap, gray dress, gray tights",,"Layered, relaxed","Cozy, minimalist","Button details, layered knit"
+3,Stella McCartney,Fall 2006,Feminine,"Gray cropped sweater, gray dress, gray tights",,"Fitted, structured","Cozy, minimalist","Textured shoulders, layered look"
+1,Stella McCartney,Fall 2006,Feminine,"Gray turtleneck sweater, ombre knit skirt, gray tights",,"Fitted top, flared skirt","Cozy, layered","Textured knit, tonal gradient"
+2,Stella McCartney,Fall 2006,Feminine,"Navy turtleneck dress, oversized gray knit poncho, black tights",,"Oversized top, fitted bottom","Layered, casual","Poncho layering, monochrome look"
+3,Stella McCartney,Fall 2006,Feminine,"Navy and gray striped dress, black tights",Black handbag,"Loose, draped","Effortless, chic","Bold stripes, relaxed fit"
+1,Stella McCartney,Fall 2006,Feminine,"Color-blocked sweater dress, gray tights",Black ankle boots,"Relaxed, oversized","Casual, chic","Deep V-neck, neutral tones"
+2,Stella McCartney,Fall 2006,Feminine,"Striped button-down dress, dark tights",Black shoulder bag,"Loose, draped","Effortless, modern","Navy and black stripes, cowl neck"
+3,Stella McCartney,Fall 2006,Feminine,"Brown dress, navy double-breasted cape","Dark tights, black shoes","Structured, layered","Sophisticated, elegant","Gold button details, cape layering"
+1,Stella McCartney,Spring 2006,Feminine,"White blazer, white blouse, light gray trousers",None visible,"Tailored, relaxed","Chic, minimalist","Open blouse, monochrome palette"
+2,Stella McCartney,Spring 2006,Feminine,Beige jumpsuit,Belt,"Relaxed, utilitarian","Effortless, casual","Rolled sleeves, deep neckline"
+3,Stella McCartney,Spring 2006,Feminine,"Light blue blazer, white blouse, white trousers",Belt,"Tailored, flowing","Sophisticated, modern","Contrasting belt, structured blazer"
+1,Stella McCartney,Spring 2006,Feminine,"Light blue shirtdress, wide corset belt",Strappy sandals,"Relaxed, cinched waist","Casual, chic","Rolled sleeves, lace-up detail"
+2,Stella McCartney,Spring 2006,Feminine,Off-shoulder trench coat dress,Strappy sandals,"A-line, belted","Modern, elegant","Cold shoulder design, metallic buckle"
+3,Stella McCartney,Spring 2006,Feminine,Strapless fitted dress,Strappy sandals,"Fitted, structured","Minimalist, sophisticated","Sweetheart neckline, clean lines"
+1,Stella McCartney,Spring 2006,Feminine,"Striped button-up shirt, light blue shorts","Beaded sandals, bracelet","Relaxed, casual","Effortless, chic","Shirt partially unbuttoned, casual elegance"
+2,Stella McCartney,Spring 2006,Feminine,"Striped shirtdress, light jacket",Beaded sandals,"Loose, flowing","Minimalist, sophisticated","Layered with jacket, understated"
+3,Stella McCartney,Spring 2006,Feminine,"Striped shirt, blue blazer, white shorts",Beaded sandals,"Tailored, structured","Smart, polished","Contrasting colors, crisp lines"

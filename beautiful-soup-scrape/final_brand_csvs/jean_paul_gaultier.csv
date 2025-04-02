@@ -1,10 +1,28 @@
 Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,Style Keywords,Notes
-1,Jean Paul Gaultier,Fall 2008,Feminine,"Fur-trimmed hooded coat, brown blouse, gray pencil skirt",None,"Layered, fitted","Urban, sophisticated","Mix of textures, winter-ready"
+1,Jean Paul Gaultier,Fall 2008,Feminine,"Fur-trimmed hooded coat, brown blouse, gray pencil skirt",,"Layered, fitted","Urban, sophisticated","Mix of textures, winter-ready"
 2,Jean Paul Gaultier,Fall 2008,Masculine,"Metallic suit jacket, matching shorts, patterned shirt",Feathered headpiece,"Tailored, sleek","Avant-garde, bold","Monochrome metallic, statement headpiece"
-3,Jean Paul Gaultier,Fall 2008,Feminine,Black trench coat,None,"Structured, cinched waist","Classic, elegant","Glossy finish, timeless silhouette"
-1,Jean Paul Gaultier,Fall 2008,Feminine,"Zebra print coat, brown top",None,A-line,"Animal print, layered",Hooded coat with cinched waist
-2,Jean Paul Gaultier,Fall 2008,Feminine,"Brown knit sweater, brown trousers",None,"Relaxed, layered","Earthy tones, textured",Fringed sweater with wide-leg pants
+3,Jean Paul Gaultier,Fall 2008,Feminine,Black trench coat,,"Structured, cinched waist","Classic, elegant","Glossy finish, timeless silhouette"
+1,Jean Paul Gaultier,Fall 2008,Feminine,"Zebra print coat, brown top",,A-line,"Animal print, layered",Hooded coat with cinched waist
+2,Jean Paul Gaultier,Fall 2008,Feminine,"Brown knit sweater, brown trousers",,"Relaxed, layered","Earthy tones, textured",Fringed sweater with wide-leg pants
 3,Jean Paul Gaultier,Fall 2008,Feminine,Black coat,Fur hat,Straight,"Minimalist, winter",Cozy fur hat with sleek coat
-1,Jean Paul Gaultier,Fall 2008,Feminine,"Black leather jacket, black textured skirt, black pants",None,"Fitted, layered","Edgy, modern","Monochrome, leather textures"
+1,Jean Paul Gaultier,Fall 2008,Feminine,"Black leather jacket, black textured skirt, black pants",,"Fitted, layered","Edgy, modern","Monochrome, leather textures"
 2,Jean Paul Gaultier,Fall 2008,Feminine,"Black coat, black skirt",White fur stole,"Structured, tailored","Chic, sophisticated","Contrasting textures, elegant draping"
 3,Jean Paul Gaultier,Fall 2008,Feminine,"Black leather jacket, black leather skirt","Black fur stole, black gloves","Fitted, sleek","Luxurious, bold","Monochrome, fur detailing"
+1,Jean Paul Gaultier,Fall 2007,Feminine,"Red double-breasted coat, white shirt, black tie, plaid skirt","Feathered headpiece, black belt","Tailored, fitted","Military, classic","Bold red color, structured tailoring"
+2,Jean Paul Gaultier,Fall 2007,Masculine,"Burgundy velvet jacket, red argyle sweater, white shirt, black skirt","Feathered headpiece, plaid knee-high boots","Layered, eclectic","Punk, eclectic","Mix of textures, bold patterns"
+3,Jean Paul Gaultier,Fall 2007,Feminine,"Yellow plaid dress, black turtleneck","Feathered headpiece, wide black belt","A-line, voluminous","Punk, retro","Plaid pattern, cinched waist"
+1,Jean Paul Gaultier,Fall 2007,Feminine,"Plaid coat, plaid pants","Plaid scarf, black hat","Tailored, layered","Eclectic, punk","Mix of tartan patterns, bold colors"
+2,Jean Paul Gaultier,Fall 2007,Feminine,"Red plaid coat, green pants",None visible,"A-line, structured","Classic, modern",Traditional plaid with a modern twist
+3,Jean Paul Gaultier,Fall 2007,Feminine,Yellow plaid coat with fur trim,"Black belt bag, black hat","Voluminous, bold","Dramatic, avant-garde","Fur details, striking contrast with plaid"
+1,Jean Paul Gaultier,Fall 2007,Feminine,"Red plaid trench coat, black leggings","Feathered headpiece, black belt","Tailored, fitted","Punk, tartan","Bold plaid pattern, cinched waist"
+2,Jean Paul Gaultier,Fall 2007,Feminine,"Cream leather jacket, green plaid skirt","Feathered headpiece, tie","Structured, layered","Eclectic, mix-and-match","Contrasting patterns, polished jacket"
+3,Jean Paul Gaultier,Fall 2007,Feminine,"Beige trench coat, plaid leggings","Feathered headpiece, plaid scarf","Classic, layered","Traditional, modern twist",Neutral coat with vibrant accents
+1,Jean Paul Gaultier,Fall 2006,Feminine,Blue ruffled dress,None,"Flowy, romantic","Ethereal, delicate","Sheer fabric, floral details"
+2,Jean Paul Gaultier,Fall 2006,Feminine,Black oversized coat dresses,None,"Voluminous, cocoon","Dramatic, gothic","Paired walking, high contrast hair"
+3,Jean Paul Gaultier,Fall 2006,Feminine,"Black jacket with gold buttons, black skirt",None,"Structured top, voluminous skirt","Chic, classic","Military-inspired buttons, sleek silhouette"
+1,Jean Paul Gaultier,Fall 2006,Feminine,"Black velvet coat, black dress",Black tights,"A-line, layered","Gothic, elegant","Long wavy hair, dark palette"
+2,Jean Paul Gaultier,Fall 2006,Feminine,Black coat with velvet trim,Black tights,"A-line, structured","Gothic, minimalist","Long wavy hair, dark palette"
+3,Jean Paul Gaultier,Fall 2006,Feminine,"Black trench coat, pleated skirt",Black tights,"Fitted, flared","Chic, modern","Short blonde hair, classic trench style"
+1,Jean Paul Gaultier,Fall 2006,Masculine,"Brown cape coat, black turtleneck, dark trousers",None,"Oversized, flowing","Androgynous, classic",Double-breasted cape with wide shoulders
+2,Jean Paul Gaultier,Fall 2006,Feminine,"Beige trench coat, brown trousers",Brown corset belt,"Fitted, flared","Structured, layered",Corset over coat creates an hourglass shape
+3,Jean Paul Gaultier,Fall 2006,Feminine,"Black peacoat, black trousers",None,"Fitted, flared","Military-inspired, elegant",Gold buttons add a classic touch

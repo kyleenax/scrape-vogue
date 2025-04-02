@@ -29,9 +29,18 @@ Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,
 1,Alexander Wang,Fall 2010,Feminine,"Pinstripe coat dress, thigh-high socks",None visible,"Fitted, elongated","Edgy, modern","Asymmetrical hem, structured shoulders"
 2,Alexander Wang,Fall 2010,Feminine,"Pinstripe blazer, cropped fur top, pinstripe pants",Clutch,"Tailored, cropped","Chic, sophisticated","Mix of textures, midriff-baring"
 3,Alexander Wang,Fall 2010,Feminine,"Black blazer, shorts, thigh-high socks",Black handbag,"Layered, sleek","Minimalist, contemporary","Faux fur stole, monochrome look"
-1,Alexander Wang,Fall 2010,Feminine,"Black tailored coat, velvet crop top, mini skirt",None,"Fitted, layered","Edgy, modern",Long coat with mini skirt contrast
-2,Alexander Wang,Fall 2010,Feminine,"Black cropped jacket, high-waisted pants",None,"Slim, structured","Chic, contemporary",Cropped jacket with high-waisted pants
+1,Alexander Wang,Fall 2010,Feminine,"Black tailored coat, velvet crop top, mini skirt",,"Fitted, layered","Edgy, modern",Long coat with mini skirt contrast
+2,Alexander Wang,Fall 2010,Feminine,"Black cropped jacket, high-waisted pants",,"Slim, structured","Chic, contemporary",Cropped jacket with high-waisted pants
 3,Alexander Wang,Fall 2010,Feminine,"Gray tailored coat, knit crop top",Sunglasses,"Fitted, layered","Sophisticated, urban",Oversized sunglasses add a bold touch
 1,Alexander Wang,Fall 2010,Feminine,"Camel sleeveless coat, white shirt, gray trousers",Black clutch,"Layered, flowing","Minimalist, structured","Strong shoulder emphasis, neutral palette"
 2,Alexander Wang,Fall 2010,Feminine,"Gray cropped vest, gray skirt, black thigh-high stockings",Sunglasses,"Fitted, elongated","Edgy, modern","Layered textures, bold accessories"
-3,Alexander Wang,Fall 2010,Feminine,"Camel sleeveless coat, gray crop top, gray leggings",None,"Layered, sleek","Chic, contemporary","Monochrome layering, contrast textures"
+3,Alexander Wang,Fall 2010,Feminine,"Camel sleeveless coat, gray crop top, gray leggings",,"Layered, sleek","Chic, contemporary","Monochrome layering, contrast textures"
+1,Alexander Wang,Fall 2007,Feminine,"Black embellished top, leather pants",Studded cap,"Slim, fitted","Edgy, urban","Gold embellishments, casual yet chic"
+2,Alexander Wang,Fall 2007,Feminine,"Gray patterned sweater, black tights",Bracelet,"Relaxed, oversized","Casual, cozy","Animal print pattern, comfortable"
+3,Alexander Wang,Fall 2007,Feminine,"White tank top, black leather pants",Black cap,"Slim, fitted","Bold, modern","Layered tank, sporty elements"
+1,Alexander Wang,Fall 2007,Feminine,"Gold metallic jacket, white shirt, tweed shorts","Long necklace, black belt","Fitted, casual","Edgy, youthful","Mix of textures, metallic accent"
+2,Alexander Wang,Fall 2007,Feminine,Gray oversized coat,Bracelet,"Oversized, structured","Minimalist, chic","Monochrome look, statement coat"
+3,Alexander Wang,Fall 2007,Feminine,"Gray sweater, white pants","Large earrings, bracelet","Relaxed, sleek","Casual, modern",Contrast of casual top with sleek pants
+1,Alexander Wang,Fall 2007,Feminine,"Gray sheer blouse, black shorts","Black cap, suspenders","Tailored, relaxed","Chic, urban",Playful use of suspenders
+2,Alexander Wang,Fall 2007,Feminine,Olive green coat,Black cap,"Boxy, structured","Military-inspired, sleek",Utilitarian pockets
+3,Alexander Wang,Fall 2007,Feminine,"White dress with gold embellishments, black vest",None,"Loose, layered","Bohemian, modern",Gold detailing adds texture

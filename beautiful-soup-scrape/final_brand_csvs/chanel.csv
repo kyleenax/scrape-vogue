@@ -30,8 +30,14 @@ Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,
 2,Chanel,Fall 2013,Feminine,"Navy double-breasted coat, tweed pants","Chain strap bag, choker","Structured, layered","Classic, sophisticated","Contrasting textures, metallic accents"
 3,Chanel,Fall 2013,Feminine,"Black and white tweed coat, leather over-the-knee boots","Blue fur hat, gloves","Structured, layered","Bold, eclectic","Bright accessory, mixed textures"
 1,Chanel,Fall 2013,Feminine,"Black and white tweed coat, white turtleneck, black pleated skirt, white thigh-high boots","Blue fur hat, layered necklaces, black clutch","Layered, structured","Classic, chic",Bold color accent with hat
-2,Chanel,Fall 2013,Feminine,"Black and white tweed coat, gray pleated skirt, black thigh-high boots",None,"A-line, layered","Sophisticated, timeless","Textured fabrics, monochrome palette"
+2,Chanel,Fall 2013,Feminine,"Black and white tweed coat, gray pleated skirt, black thigh-high boots",,"A-line, layered","Sophisticated, timeless","Textured fabrics, monochrome palette"
 3,Chanel,Fall 2013,Feminine,"Black and white tweed coat, gray skirt, black leather pants","Gray quilted bag, chunky bracelet","Layered, voluminous","Edgy, modern","Chain details on boots, oversized bag"
 1,Chanel,Fall 2013,Feminine,"Gray tweed coat dress, black thigh-high boots","Black gloves, small black quilted bag","Structured, fitted","Classic, elegant","High collar, textured fabric"
 2,Chanel,Fall 2013,Feminine,"Gray tweed coat, black thigh-high boots","Pink fur hat, chain necklace","Structured, layered","Chic, sophisticated","Contrasting textures, statement hat"
-3,Chanel,Fall 2013,Masculine,"Black textured coat, black leather pants",None,"Slim, tailored","Modern, sleek","Monochrome look, leather detailing"
+3,Chanel,Fall 2013,Masculine,"Black textured coat, black leather pants",,"Slim, tailored","Modern, sleek","Monochrome look, leather detailing"
+1,Chanel,Spring 2006,Feminine,Black and white houndstooth dress,"Layered necklaces, Chanel belt, white wristbands","Fitted, knee-length","Classic, elegant",Signature Chanel tweed pattern
+2,Chanel,Spring 2006,Feminine,Black plaid dress,"Layered necklaces, Chanel belt","Fitted, knee-length","Classic, sophisticated",Plaid pattern with Chanel branding
+3,Chanel,Spring 2006,Feminine,"Denim top, denim shorts, black leather jacket","Layered necklaces, black ankle boots","Casual, relaxed","Modern, edgy",Denim-on-denim with leather contrast
+1,Chanel,Spring 2006,Feminine,"Black leather shirt dress, black leather shorts","White hat with black trim, white gloves, black and white shoes","Fitted, tailored","Chic, sophisticated",Leather ensemble with classic Chanel elements
+2,Chanel,Spring 2006,Feminine,"Black tweed jacket, blue jeans","Layered chain necklaces, chain belt, black gloves, black and white shoes","Casual, relaxed","Edgy, layered",Mix of textures with statement accessories
+3,Chanel,Spring 2006,Feminine,"White long cardigan, blue denim shorts","Silver layered necklaces, chain belt, white boots","Streamlined, elegant","Minimalist, modern",Clean lines with subtle embellishments

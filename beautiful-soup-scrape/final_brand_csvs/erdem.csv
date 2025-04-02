@@ -75,8 +75,14 @@ Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,
 2,Erdem,Spring 2013,Feminine,Snakeskin and floral print dress,Platform heels,Fitted,"Chic, contemporary",Geometric paneling with contrasting prints
 3,Erdem,Spring 2013,Feminine,Snakeskin print coat dress,Snakeskin platform heels,Straight,"Sophisticated, sleek",Minimalist design with bold print
 1,Erdem,Spring 2013,Feminine,"Sheer lace top, snake print and yellow pleated skirt","Sunglasses, lace gloves",A-line,"Romantic, eclectic",Mix of textures with lace and snake print
-2,Erdem,Spring 2013,Feminine,"Snake print top with lace sleeves, snake print pencil skirt",None,Fitted,"Bold, sophisticated",Contrasting textures with lace and snake print
+2,Erdem,Spring 2013,Feminine,"Snake print top with lace sleeves, snake print pencil skirt",,Fitted,"Bold, sophisticated",Contrasting textures with lace and snake print
 3,Erdem,Spring 2013,Feminine,Strapless yellow dress with blue lace embroidery,Blue platform heels,A-line,"Elegant, fresh",Delicate embroidery on a pastel palette
 1,Erdem,Spring 2013,Feminine,"Floral lace coat, mesh top, yellow skirt","Blue sunglasses, floral lace gloves","Straight, layered","Delicate, floral","Intricate lace detailing, pastel colors"
 2,Erdem,Spring 2013,Feminine,Floral lace dress,Floral lace gloves,A-line,"Romantic, floral","Sheer lace overlay, vibrant floral patterns"
-3,Erdem,Spring 2013,Feminine,Floral lace dress with sheer sleeves,None,"Fitted, pencil","Elegant, floral","Contrasting lace textures, structured waist"
+3,Erdem,Spring 2013,Feminine,Floral lace dress with sheer sleeves,,"Fitted, pencil","Elegant, floral","Contrasting lace textures, structured waist"
+1,Erdem,Fall 2006,Feminine,"Gray dress, patterned scarf",Black tights,A-line,"Elegant, sophisticated","High neck, floral scarf detail"
+2,Erdem,Fall 2006,Feminine,"Gray coat, floral maxi dress",None,Layered,"Chic, layered","Flowing skirt, textured coat"
+3,Erdem,Fall 2006,Feminine,Floral print dress,None,Fitted,"Romantic, bold","Rich floral pattern, long sleeves"
+1,Erdem,Fall 2006,Feminine,Floral print dress,Matching floral hat,A-line,"Elegant, floral",Coordinated print with hat
+2,Erdem,Fall 2006,Feminine,Black dress,"Floral hat, scarf",Fitted,"Chic, sophisticated",Monochrome with floral accents
+3,Erdem,Fall 2006,Feminine,"Houndstooth coat, pleated skirt",Round hat,Oversized,"Classic, textured",Mix of patterns and textures

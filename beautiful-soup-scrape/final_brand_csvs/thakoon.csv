@@ -1,10 +1,19 @@
 Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,Style Keywords,Notes
-1,Thakoon,Spring 2008,Feminine,"Striped shirt, black blazer, black shorts",None,"Tailored, relaxed","Chic, modern","Contrasting textures, casual elegance"
+1,Thakoon,Spring 2008,Feminine,"Striped shirt, black blazer, black shorts",,"Tailored, relaxed","Chic, modern","Contrasting textures, casual elegance"
 2,Thakoon,Spring 2008,Feminine,"Black sleeveless top, black pants",White hat,"Flowy, cinched waist","Sophisticated, sleek","Monochrome look, statement hat"
 3,Thakoon,Spring 2008,Feminine,Yellow button-up dress,Black belt,"A-line, structured","Vibrant, playful","Bright color, pleated details"
-1,Thakoon,Spring 2008,Feminine,"Light blue blazer, white shirt, striped skirt",None,"Relaxed, A-line","Casual, chic",Playful skirt pattern
-2,Thakoon,Spring 2008,Feminine,Striped short-sleeve dress,None,"Fitted, straight","Bold, graphic",Vibrant color contrast
+1,Thakoon,Spring 2008,Feminine,"Light blue blazer, white shirt, striped skirt",,"Relaxed, A-line","Casual, chic",Playful skirt pattern
+2,Thakoon,Spring 2008,Feminine,Striped short-sleeve dress,,"Fitted, straight","Bold, graphic",Vibrant color contrast
 3,Thakoon,Spring 2008,Feminine,Striped sleeveless dress,Hat,"Fitted, straight","Sophisticated, modern",Subtle pattern with standout hat
 1,Thakoon,Spring 2008,Feminine,"Striped geometric top, striped shorts",White hat,"Relaxed, casual","Graphic, bold","Mix of patterns, vibrant colors"
 2,Thakoon,Spring 2008,Feminine,"Striped geometric dress, gray cropped pants",,"Layered, flowing","Eclectic, artistic","Playful layering, asymmetrical hem"
 3,Thakoon,Spring 2008,Feminine,"Printed top, striped capri pants, navy jacket","White hat, yellow sandals","Casual, chic","Nautical, modern","Pattern mixing, bright accents"
+1,Thakoon,Spring 2007,Feminine,White mini dress,White strappy heels,A-line,"Minimalist, elegant","Puff sleeves, clean lines"
+2,Thakoon,Spring 2007,Feminine,"White blouse, white shorts",White strappy heels,"Boxy, relaxed","Chic, casual","Puff sleeves, structured top"
+3,Thakoon,Spring 2007,Feminine,White mini dress,White strappy heels,A-line,"Minimalist, elegant","Puff sleeves, subtle pleats"
+1,Thakoon,Spring 2007,Feminine,"White puff-sleeve blouse, white skirt",White peep-toe heels,"Loose, voluminous","Minimalist, airy","Monochrome white, relaxed fit"
+2,Thakoon,Spring 2007,Feminine,White puff-sleeve dress,Black strappy heels,"Loose, voluminous","Minimalist, airy","Monochrome white, relaxed fit"
+3,Thakoon,Spring 2007,Feminine,"White structured top, white layered skirt",White strappy heels,"Structured, layered","Minimalist, modern","Monochrome white, structured shoulders"
+1,Thakoon,Spring 2007,Feminine,Pink floral dress,White heels,"A-line, fitted bodice","Romantic, floral","Puff sleeves, soft pink hues"
+2,Thakoon,Spring 2007,Feminine,"Pink pleated top, black skirt","Black belt, black heels","Peplum, fitted","Bold, structured","Contrasting colors, voluminous top"
+3,Thakoon,Spring 2007,Feminine,Pink striped halter dress,White heels,"Tent, loose","Playful, airy","Sheer stripes, halter neck"
