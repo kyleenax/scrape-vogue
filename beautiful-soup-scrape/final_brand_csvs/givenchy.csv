@@ -50,9 +50,18 @@ Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,
 1,Givenchy,Fall 2014,Feminine,"Sheer floral print dress, ruffled skirt",Nude strappy heels,"Fitted, layered","Romantic, ethereal","Delicate floral pattern, sheer fabric"
 2,Givenchy,Fall 2014,Feminine,"Sheer floral print dress, ruffled neckline",Nude strappy heels,"Fitted, layered","Romantic, ethereal","Ruffled details, sheer fabric"
 3,Givenchy,Fall 2014,Feminine,"Sheer floral print dress, pleated neckline",Nude strappy heels,"Fitted, layered","Romantic, ethereal","Pleated neckline, sheer fabric"
-1,Givenchy,Fall 2014,Feminine,"Mint green blazer, white blouse, black trousers with red accents",None,"Long, tailored","Structured, modern",Contrasting color accents
+1,Givenchy,Fall 2014,Feminine,"Mint green blazer, white blouse, black trousers with red accents",,"Long, tailored","Structured, modern",Contrasting color accents
 2,Givenchy,Fall 2014,Feminine,"Mint green cropped blazer, light green blouse, black trousers with white accents",Ring,"Tailored, fitted","Chic, contemporary",Cropped blazer with sharp lines
-3,Givenchy,Fall 2014,Feminine,"Cream blazer, white blouse, black trousers with red accents",None,"Long, tailored","Elegant, sleek",Minimalist with bold pocket details
+3,Givenchy,Fall 2014,Feminine,"Cream blazer, white blouse, black trousers with red accents",,"Long, tailored","Elegant, sleek",Minimalist with bold pocket details
 1,Givenchy,Fall 2014,Feminine,Leopard print dress with patterned panels,Red strappy heels,"Fitted, knee-length","Animal print, bold",Mix of leopard and abstract patterns
 2,Givenchy,Fall 2014,Feminine,Butterfly print dress with ruffled details,Red strappy heels,"A-line, knee-length","Whimsical, romantic","Butterfly motifs, ruffle accents"
 3,Givenchy,Fall 2014,Feminine,Snakeskin print dress with patterned panels,Red strappy heels,"Fitted, knee-length","Exotic, edgy","Snakeskin texture, bold patterns"
+1,Givenchy,Fall 2007,Feminine,"Black blazer, leather top, wide-leg trousers",Leather gloves,"Tailored, elongated","Chic, sophisticated",Monochrome look with a mix of textures
+2,Givenchy,Fall 2007,Feminine,"Black blazer, leather top, wide-leg trousers",None,"Tailored, elongated","Chic, sophisticated",Monochrome look with a mix of textures
+3,Givenchy,Fall 2007,Feminine,Double-breasted coat,Thigh-high leather boots,"Fitted, sleek","Elegant, bold",Contrasting textures with sleek boots
+1,Givenchy,Fall 2007,Feminine,"Brown cropped jacket, navy high-waisted wide-leg pants",None,"Fitted top, wide-leg pants","Chic, tailored",Military-inspired buttons
+2,Givenchy,Fall 2007,Feminine,"Black wrap dress, turtleneck",Thigh-high black boots,"Slim, elongated","Sophisticated, sleek",Monochrome look
+3,Givenchy,Fall 2007,Feminine,"Black fur-trimmed jacket, black wide-leg pants",None,"Structured top, wide-leg pants","Luxurious, elegant",Textured fur detail
+1,Givenchy,Fall 2007,Feminine,"Black structured top, brown wide-leg trousers",None,"Structured top, wide-leg","Edgy, modern","Gold accents on top, strong shoulder emphasis"
+2,Givenchy,Fall 2007,Feminine,"Black turtleneck, black wide-leg pants, black fur stole",Black gloves,"Voluminous upper, wide-leg","Luxurious, dramatic","High collar, fur detailing"
+3,Givenchy,Fall 2007,Feminine,Pink pleated halter dress,None,"Flowy, pleated","Romantic, elegant","Soft pink hue, movement-focused design"

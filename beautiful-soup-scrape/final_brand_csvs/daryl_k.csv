@@ -18,11 +18,20 @@ Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,
 2,Daryl K,Spring 2012,Feminine,White dress with black accents,Black shoulder bag,"Fitted, sleek","Modern, graphic","Bold red shoes, graphic print"
 3,Daryl K,Spring 2012,Feminine,Black draped dress,,"Draped, fluid","Minimalist, sophisticated","Asymmetrical draping, bold footwear"
 1,Daryl K,Fall 2011,Feminine,"Camouflage print cape, white shirt, black leather pants",Black leather bag,"Loose top, fitted bottom","Eclectic, layered","Nature-inspired print, contrast textures"
-2,Daryl K,Fall 2011,Feminine,"Black tunic, white shirt, black leather pants",None,"Layered, structured","Monochrome, modern","Minimalist color palette, sleek silhouette"
-3,Daryl K,Fall 2011,Feminine,"Camouflage print jacket, black top, black trousers",None,Relaxed fit,"Casual, chic","Nature-inspired print, relaxed tailoring"
+2,Daryl K,Fall 2011,Feminine,"Black tunic, white shirt, black leather pants",,"Layered, structured","Monochrome, modern","Minimalist color palette, sleek silhouette"
+3,Daryl K,Fall 2011,Feminine,"Camouflage print jacket, black top, black trousers",,Relaxed fit,"Casual, chic","Nature-inspired print, relaxed tailoring"
 1,Daryl K,Fall 2011,Feminine,"Olive coat, black top, khaki pants",Silver necklace,"Tailored, straight","Casual, chic","Earth tones, autumnal feel"
 2,Daryl K,Fall 2011,Feminine,"Black embroidered cardigan, orange top, floral shorts",Black belt,"Relaxed, layered","Eclectic, playful","Mix of textures, vibrant colors"
 3,Daryl K,Fall 2011,Feminine,"White tunic, faux fur vest, black leggings",Silver necklace,"Slim, elongated","Modern, edgy",Monochrome with texture contrast
 1,Daryl K,Fall 2011,Feminine,"Black dress, black leggings","White tote bag, black ankle boots","Straight, fitted","Minimalist, chic",Simple black ensemble with a pop of white from the bag
 2,Daryl K,Fall 2011,Feminine,"Black sweater, olive mini skirt","Chain cap, black crossbody bag, sheer tights","Layered, fitted","Edgy, urban",Mix of textures with leather accents and sheer tights
 3,Daryl K,Fall 2011,Feminine,"Black top, olive jacket, leather pants",Black ankle boots,"Relaxed, tapered","Casual, modern",Olive and black color palette with a focus on comfort and style
+1,Daryl K,Fall 2007,Feminine,"Black leather trench coat, black dress",White boots,"Long, sleek","Edgy, modern","Shiny texture, layered look"
+2,Daryl K,Fall 2007,Feminine,"White trench coat, white dress","White boots, black necklace","Long, streamlined","Minimalist, clean","Monochrome, cinched waist"
+3,Daryl K,Fall 2007,Feminine,"Black coat, striped shirt, black skirt","White boots, black necklace","Layered, relaxed","Casual, chic","Contrast of textures, monochrome with stripes"
+1,Daryl K,Fall 2007,Feminine,"Black leather vest, black long-sleeve top, navy leggings",None,"Layered, slim","Edgy, urban","Asymmetrical leather vest, mix of textures"
+2,Daryl K,Fall 2007,Feminine,"Black coat, black top, black patent leggings",None,"Long, sleek","Gothic, modern","High contrast with shiny leggings, layered coat"
+3,Daryl K,Fall 2007,Feminine,"Black oversized sweater, black leather pants",None,"Oversized, relaxed","Minimalist, chic","Monochrome look with white boots, casual elegance"
+1,Daryl K,Fall 2007,Feminine,"Black leather dress, black leggings",Red neck scarf,"Fitted, layered","Edgy, urban","Textured fabric, contrasting colors"
+2,Daryl K,Fall 2007,Feminine,"Black leather coat, black pants",Black scarf,"Relaxed, oversized","Minimalist, sleek","Monochrome look, glossy finish"
+3,Daryl K,Fall 2007,Feminine,"Black jacket, gray blouse, black vinyl leggings",None,"Fitted, casual","Casual, modern","High-shine leggings, soft top"

@@ -29,9 +29,18 @@ Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,
 1,Carlos Miele,Fall 2009,Feminine,Black dress with white pleated detailing,Black open-toe heels,"Fitted, knee-length","Elegant, modern",Geometric neckline
 2,Carlos Miele,Fall 2009,Feminine,White strapless gown with black detailing,Black open-toe heels,"Flowy, floor-length","Sophisticated, dramatic",Contrasting stripes
 3,Carlos Miele,Fall 2009,Feminine,Black strapless dress with white detailing,Black open-toe heels,"A-line, above-knee","Chic, playful",Bold monochrome contrast
-1,Carlos Miele,Fall 2009,Feminine,"Black blazer, white ruffled blouse, black skirt",None,"Tailored, elongated","Elegant, classic",High contrast with ruffled blouse
-2,Carlos Miele,Fall 2009,Feminine,"Red satin gown, pleated ruffle collar",None,"Flowing, fitted","Dramatic, luxurious",Rich color with textured collar
+1,Carlos Miele,Fall 2009,Feminine,"Black blazer, white ruffled blouse, black skirt",,"Tailored, elongated","Elegant, classic",High contrast with ruffled blouse
+2,Carlos Miele,Fall 2009,Feminine,"Red satin gown, pleated ruffle collar",,"Flowing, fitted","Dramatic, luxurious",Rich color with textured collar
 3,Carlos Miele,Fall 2009,Feminine,"Black mini dress with cut-out, peplum detail",Black belt,"Fitted, structured","Modern, edgy",Strong shoulders with metallic accents
 1,Carlos Miele,Fall 2009,Feminine,Asymmetrical one-shoulder dress,Studded ankle boots,A-line,"Elegant, modern",Color-blocked design with embellishment on shoulder
 2,Carlos Miele,Fall 2009,Feminine,"Metallic jacket, black mini skirt","Clutch, metallic open-toe heels",Fitted,"Chic, sophisticated",Structured jacket with high collar
 3,Carlos Miele,Fall 2009,Feminine,"Fur jacket, black trousers",Belt,Tailored,"Luxurious, classic",Textured fur with sleek trousers
+1,Carlos Miele,Spring 2007,Feminine,"Red and leopard print mini dress, light gray jacket",Gold sandals,"Flowy, short","Bold, vibrant","Animal print details, draped fabric"
+2,Carlos Miele,Spring 2007,Feminine,Beige one-shoulder gown,None visible,"Flowy, elegant","Ethereal, romantic","Floral embroidery, asymmetrical neckline"
+3,Carlos Miele,Spring 2007,Feminine,Red and beige mini dress,"Red clutch, gold sandals","Fit and flare, short","Playful, chic","Contrasting bodice, layered skirt"
+1,Carlos Miele,Spring 2007,Feminine,"Sheer embellished top, gray trousers",None,"Relaxed, flowing","Elegant, delicate",Intricate beadwork on top
+2,Carlos Miele,Spring 2007,Feminine,Blue mini dress with embellishments,None,"A-line, fitted","Playful, vibrant","Layered ruffles, bold color"
+3,Carlos Miele,Spring 2007,Feminine,Printed mini dress with embellishments,None,"A-line, fitted","Romantic, whimsical","Textured fabric, intricate patterns"
+1,Carlos Miele,Spring 2007,Feminine,Blue one-shoulder gown,None visible,"Flowy, draped","Elegant, eveningwear","Rich blue hues, asymmetrical strap"
+2,Carlos Miele,Spring 2007,Feminine,"Beaded top, blue patterned mini skirt",None visible,"Fitted, textured","Chic, cocktail","Intricate beadwork, layered textures"
+3,Carlos Miele,Spring 2007,Feminine,"Floral halter top, beige trousers",Bracelet,"Relaxed, tailored","Casual, sophisticated","Floral print, neutral pants"

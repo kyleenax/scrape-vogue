@@ -47,9 +47,27 @@ Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,
 1,Lacoste,Spring 2013,Feminine,"White short-sleeve shirt, white wide-leg trousers",White sandals,"Relaxed, oversized","Minimalist, monochrome","Clean lines, casual elegance"
 2,Lacoste,Spring 2013,Masculine,"White blazer, light gray polo shirt, light gray trousers",White sneakers,"Tailored, relaxed","Sporty, modern","Monochrome layering, casual sophistication"
 3,Lacoste,Spring 2013,Feminine,Light gray short-sleeve dress,Gray sandals,"Boxy, loose","Minimalist, chic","Simple silhouette, understated elegance"
-1,Lacoste,Spring 2013,Feminine,"Sheer tank top, patterned pants",None,"Relaxed, flowing","Casual, sporty","Lightweight fabric, intricate pattern"
+1,Lacoste,Spring 2013,Feminine,"Sheer tank top, patterned pants",,"Relaxed, flowing","Casual, sporty","Lightweight fabric, intricate pattern"
 2,Lacoste,Spring 2013,Feminine,"Oversized top, loose pants",Beige sandals,"Boxy, relaxed","Minimalist, modern","Monochrome look, subtle texture"
 3,Lacoste,Spring 2013,Masculine,"Patterned jacket, patterned pants",White sneakers,"Structured, layered","Sporty, contemporary","Matching set, bold pattern"
 1,Lacoste,Spring 2013,Feminine,White oversized cape dress,Gray strappy sandals,"Loose, flowing","Minimalist, modern","Clean lines, monochrome"
 2,Lacoste,Spring 2013,Feminine,White patterned mini dress,"White handbag, beige strappy sandals","Fitted, short","Sporty, chic","Textured pattern, sporty elegance"
 3,Lacoste,Spring 2013,Feminine,"White short-sleeve jacket, white trousers, white shirt",Beige sandals,"Boxy, relaxed","Minimalist, contemporary","Monochrome layering, relaxed fit"
+1,Lacoste,Fall 2007,Masculine,"Navy blazer, striped sweater, white pants",Red and white bag,"Tailored, casual","Preppy, nautical","Classic color contrast, relaxed fit"
+2,Lacoste,Fall 2007,Feminine,"Blue striped sweater, white puffer vest, dark jeans","Black cap, white and navy bag","Slim, casual","Sporty, casual","Layered look, nautical influence"
+3,Lacoste,Fall 2007,Masculine,"Burgundy sweater, white pants",Blue and white bag,"Slim, casual","Minimalist, casual","Simple color palette, relaxed fit"
+1,Lacoste,Fall 2007,Feminine,"Red patent jacket, red and white striped turtleneck, dark skinny jeans","Red shoes, white socks","Slim, fitted","Casual, sporty",Playful use of stripes and glossy textures
+2,Lacoste,Fall 2007,Feminine,"Black and white striped top, dark denim overalls","Black beret, white shoulder bag","Relaxed, straight","Chic, Parisian",Effortless layering with a classic beret
+3,Lacoste,Fall 2007,Feminine,"Blue and black striped sweater, dark overalls","Black cap, blue shoulder bag, striped scarf","Relaxed, straight","Casual, sporty",Coordinated stripes and accessories for a cohesive look
+1,Lacoste,Fall 2007,Masculine,"Striped sweater, black jacket, white pants","Beanie, boots","Casual, relaxed","Sporty, layered","Bright colors, casual layering"
+2,Lacoste,Fall 2007,Feminine,"Striped sweater, dark blazer, cropped jeans",Rain boots,"Tailored, casual","Preppy, nautical","Contrasting stripes, structured blazer"
+3,Lacoste,Fall 2007,Unisex,"Blue puffer jacket, maroon dress, jeans",Rain boots,"Casual, fitted","Sporty, youthful","Bold colors, mixed textures"
+1,Lacoste,Spring 2006,Masculine,"Green striped blazer, white striped shirt, white trousers",Pocket square,"Relaxed, tailored","Preppy, sporty",Classic green and white color scheme
+2,Lacoste,Spring 2006,Masculine,"Green striped jacket, green shirt, white trousers",None,"Casual, fitted","Preppy, sporty",Consistent use of stripes
+3,Lacoste,Spring 2006,Masculine,"Green cable-knit sweater, white trousers",Sunglasses,"Relaxed, casual","Preppy, sporty",V-neck sweater with signature logo
+1,Lacoste,Spring 2006,Masculine,"Green striped polo shirt, white pants",White sneakers,"Slim, casual","Sporty, classic",Green and white color palette
+2,Lacoste,Spring 2006,Masculine,"Green striped button-up shirt, white pants",White sneakers,"Slim, casual","Sporty, classic",Green and white color palette
+3,Lacoste,Spring 2006,Masculine,"Green V-neck sweater, white pants","Sunglasses, white sneakers","Relaxed, casual","Sporty, classic",Green and white color palette
+1,Lacoste,Spring 2006,Feminine,"Patterned polo shirt, matching skirt",White headband,"Relaxed, sporty","Geometric, casual",Bold geometric print
+2,Lacoste,Spring 2006,Feminine,Strapless dress,Green and white cap,A-line,"Sporty, minimal",Color-blocked design
+3,Lacoste,Spring 2006,Feminine,"White romper, mint shorts","Green and white cap, striped knee-high socks","Relaxed, sporty","Sporty, fresh",Layered shorts under romper

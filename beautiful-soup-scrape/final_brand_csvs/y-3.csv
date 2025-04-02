@@ -12,8 +12,26 @@ Look Number,Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,
 2,Y-3,Fall 2009,Feminine,"Black cape, white shirt, black trousers","Black cap, black gloves",Oversized,"Dramatic, mysterious",Cape adds a theatrical element
 3,Y-3,Fall 2009,Masculine,"Black jacket, black sweater, black trousers","Black cap, gloves",Relaxed,"Military-inspired, utilitarian",White detailing on shoulders adds contrast
 1,Y-3,Fall 2009,Masculine,"Black long coat, black pants",Black beret,"Oversized, relaxed","Sporty, casual",Features white stripes on sleeve
-2,Y-3,Fall 2009,Feminine,"Black tailored jacket, black pants",None,"Structured, fitted","Minimalist, modern",White stripes detail on pants
-3,Y-3,Fall 2009,Masculine,"Black pinstripe suit, black hoodie",None,"Tailored, sleek","Sporty, formal",Subtle pinstripe pattern
-1,Y-3,Fall 2009,Masculine,"Black pinstripe coat, black zip-up hoodie, black trousers",None,"Relaxed, layered","Sporty, casual","Pinstripe pattern, athletic shoes"
+2,Y-3,Fall 2009,Feminine,"Black tailored jacket, black pants",,"Structured, fitted","Minimalist, modern",White stripes detail on pants
+3,Y-3,Fall 2009,Masculine,"Black pinstripe suit, black hoodie",,"Tailored, sleek","Sporty, formal",Subtle pinstripe pattern
+1,Y-3,Fall 2009,Masculine,"Black pinstripe coat, black zip-up hoodie, black trousers",,"Relaxed, layered","Sporty, casual","Pinstripe pattern, athletic shoes"
 2,Y-3,Fall 2009,Feminine,"Black and white varsity jacket, black pants","Black riding hat, black boots","Fitted, sporty","Equestrian, athletic","Contrast sleeves, equestrian influence"
-3,Y-3,Fall 2009,Masculine,"Black jacket, white turtleneck, black pants",None,"Structured, layered","Minimalist, modern","High collar, monochrome look"
+3,Y-3,Fall 2009,Masculine,"Black jacket, white turtleneck, black pants",,"Structured, layered","Minimalist, modern","High collar, monochrome look"
+1,Y-3,Fall 2007,Feminine,"Navy cape, black knit dress","Black gloves, orange leg warmers","Layered, oversized","Sporty, avant-garde","Contrasting colors, layered textures"
+2,Y-3,Fall 2007,Masculine,"Black hooded coat, black pants",White sneakers,"Long, relaxed","Sporty, urban","Monochrome look, logo detail"
+3,Y-3,Fall 2007,Feminine,"Black oversized sweater dress, blue leggings",Black beanie,"Oversized, relaxed","Casual, sporty","Bold color contrast, casual footwear"
+1,Y-3,Fall 2007,Feminine,"Red sweater, black wide-leg pants",Black crossbody bag,"Relaxed, layered","Sporty, casual","Contrasting colors, long scarf"
+2,Y-3,Fall 2007,Masculine,"Black blazer, red turtleneck, black pants with logo",Black boots,"Structured, tailored","Sporty, modern","Logo details, monochrome with red accents"
+3,Y-3,Fall 2007,Masculine,"Black trench coat with logo, red pants",White sneakers,"Relaxed, layered","Sporty, urban","Logo emphasis, contrast layering"
+1,Y-3,Fall 2007,Masculine,"Black coat, blue turtleneck, white pants",,"Relaxed, layered","Sporty, casual","Logo on pants, dark color palette"
+2,Y-3,Fall 2007,Masculine,"Black parka, black pants","Green beaded bracelet, large black bag","Oversized, layered","Sporty, utilitarian","Neon green shoes, functional accessories"
+3,Y-3,Fall 2007,Masculine,"Blue sweater, blue track pants",,"Relaxed, sporty","Athletic, casual","Bold logos on pants, cohesive color scheme"
+1,Y-3,Spring 2007,Feminine,"Black off-shoulder top, white wide-leg pants","Black cap, white sneakers","Loose, relaxed","Sporty, casual",Monochrome look with asymmetrical top
+2,Y-3,Spring 2007,Feminine,"White mini dress, black cropped jacket","Black bag, white gloves, silver sneakers","Short, fitted","Sporty, chic",Contrast of black and white with sporty elements
+3,Y-3,Spring 2007,Feminine,"Black cropped top, white shorts, black cropped jacket","Black clutch, white high-top sneakers","Casual, sporty","Athletic, minimal",Striped top adds visual interest
+1,Y-3,Spring 2007,Feminine,"Sleeveless white top, black capri pants",Black hat,"Slim, sporty","Athletic, casual","Adidas stripes, monochrome"
+2,Y-3,Spring 2007,Masculine,"White jacket, white pants",White cap,"Relaxed, sporty","Minimalist, casual","Monochrome look, open jacket"
+3,Y-3,Spring 2007,Masculine,"White jacket, black shirt, gray sweatpants",Black belt,"Relaxed, sporty","Layered, casual","Monochrome with contrast, athletic shoes"
+1,Y-3,Spring 2007,Feminine,"White zip-up jacket, white cropped pants",White sneakers,"Sporty, relaxed","Athletic, casual","Black stripe details, minimalistic"
+2,Y-3,Spring 2007,Feminine,"Black blazer, striped shirt, white wide-leg pants",Black cap,"Tailored, relaxed","Monochrome, sporty","Contrasting black and white, casual elegance"
+3,Y-3,Spring 2007,Feminine,"Black long coat, striped crop top, white pants",Gold sneakers,"Sporty, fitted","Athletic, modern","Cropped top, metallic footwear"
