@@ -19,7 +19,6 @@ for csv in os.listdir(path):
             agg_df = pd.concat([agg_df, df], ignore_index=True)
 
 # Display the first few rows of the aggregated DataFrame
-print(agg_df.head())
 
 def seasonstoDates(df):
     seasonsToDates = {}
@@ -45,7 +44,7 @@ def seasonstoDates(df):
 agg_df = seasonstoDates(agg_df)
 
 def accessory_percentage(df, season, accessory, accessory_column):
-    """Calculate the percentage of outfits that feature a given accessory in a specific season."""
+    """Calculate the percentage of outfits that feature a given accessory in a specific season. P(Accessory) in a season"""
     
     # Ensure "Season " and the accessory column exist
     if "Season" not in df.columns or accessory_column not in df.columns:
@@ -61,10 +60,10 @@ def accessory_percentage(df, season, accessory, accessory_column):
     # Count outfits where the accessory column contains the keyword (case-insensitive)
     outfits_with_accessory = season_df[accessory_column].fillna("").str.contains(accessory, case=False, na=False).sum()
     
-    return (outfits_with_accessory / total_outfits)
+    return outfits_with_accessory, total_outfits, (outfits_with_accessory / total_outfits)
 
 def gender_percentage(df, season, accessory, accessory_column, gender):
-    """Calculate the percentage of outfits with a specific gender and accessory in a season."""
+    """Calculate the percentage of outfits with a specific gender and accessory in a season., P(Accessory | Gender) in a season"""
     
     season_df = df[df["Season"] == season]
     gender_df = season_df[season_df["Gender Presentation"].isin(gender)]
@@ -78,7 +77,7 @@ def gender_percentage(df, season, accessory, accessory_column, gender):
     return (outfits_with_accessory / total_outfits)
 
 # List of accessory columns you want to analyze (you can add more here if needed)
-accessory_columns = ["Accessories", "Garments", "Silhouette", "Style Keywords"]
+accessory_columns = ["Accessories", "Garments", "Silhouette", "Style Keywords", "Notes"]
 results = []
 # Iterate over each season
 for season in agg_df["Season"].unique():
@@ -89,8 +88,7 @@ for season in agg_df["Season"].unique():
         accessories = [a.strip() for a in accessories if not a.endswith("s")]
         # Iterate over each accessory in the list and calculate the percentage
         for accessory in accessories:
-            percentage = accessory_percentage(agg_df, season, accessory, accessory_column)  # Compute percentage
-            
+            number, total, percentage = accessory_percentage(agg_df, season, accessory, accessory_column)  # Compute percentage
             # Calculate percentages for feminine and unisex
             feminine_percentage = gender_percentage(agg_df, season, accessory, accessory_column, ["Feminine"])
             unisex_percentage = gender_percentage(agg_df, season, accessory, accessory_column, ["Unisex", "Androgynous", "Gender Neutral"])
@@ -103,14 +101,17 @@ for season in agg_df["Season"].unique():
                 "Percentage": percentage,
                 "Percent Feminine": feminine_percentage,
                 "Percent Unisex": unisex_percentage,
-                "Percent Masculine": masculine_percentage
+                "Percent Masculine": masculine_percentage,
+                "Num Outfits": number,
+                "Total Outfits": total
             })  # Store result
 
 # Create DataFrame and sort by frequency (descending)
 results_df = pd.DataFrame(results).sort_values(by="Percentage", ascending=False)
 
-# Pivot the DataFrame to have separate columns for each item type
-pivot_df = results_df.pivot_table(index=["Season", "Item", "Percent Feminine", "Percent Unisex", "Percent Masculine"], columns="Item Type", values="Percentage").reset_index()
+results_df.to_csv("fun2.csv", index=False)
 
-print(pivot_df)
+# Pivot the DataFrame to have separate columns for each item type
+pivot_df = results_df.pivot_table(index=["Season", "Item", "Percent Feminine", "Percent Unisex", "Percent Masculine", "Num Outfits", "Total Outfits"], columns="Item Type", values="Percentage").reset_index()
+
 pivot_df.to_csv("fun.csv", index=False)
