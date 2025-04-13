@@ -1,0 +1,4 @@
+Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,Notes,Predicted Styles,Confidence Scores,Look Confidence
+Dries Van Noten,Spring 2025,Feminine,"White blazer, sheer white blouse, white wide-leg pants",Sunglasses,"Relaxed, fluid","Monochrome white, structured shirtdress",minimalist,{'minimalist': 0.551},0.634650912678858
+Dries Van Noten,Spring 2025,Feminine,"Black wrap jacket, denim shirt, white skirt","White sneakers, black headband","Boxy, structured",Mix of textures and a bold silhouette,,{},0.6172133998483678
+Dries Van Noten,Spring 2025,Feminine,"White blazer, sheer white blouse, white wide-leg pants",Gray clutch,"Tailored, flowing","Playful mix of textures, oversized silhouette",,{},0.6172133998483678

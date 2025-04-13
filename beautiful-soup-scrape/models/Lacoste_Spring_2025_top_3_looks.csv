@@ -1,0 +1,4 @@
+Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,Notes,Predicted Styles,Confidence Scores,Look Confidence
+Lacoste,Spring 2025,Masculine,"Green cable-knit sweater, white trousers",White sandals,"Relaxed, tailored",Green and white color palette,sporty,{'sporty': 0.696},0.6197860698453168
+Lacoste,Spring 2025,Feminine,"Sheer tank top, patterned pants",White headband,"Sporty, relaxed","Contrasting stripes, clean lines",,{},0.6172133998483676
+Lacoste,Spring 2025,Feminine,"White polo shirt, white shorts",Green and white cap,"Relaxed, sporty","Clean lines, monochrome",minimalist,{'minimalist': 0.746},0.6075801120276152

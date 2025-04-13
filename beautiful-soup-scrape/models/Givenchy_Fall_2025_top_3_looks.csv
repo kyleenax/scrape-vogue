@@ -1,0 +1,4 @@
+Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,Notes,Predicted Styles,Confidence Scores,Look Confidence
+Givenchy,Fall 2025,Feminine,"Black coat, metallic embellished top, black skirt",Black ankle boots,"Structured, fitted","Bold metallic details, strong shoulders",edgy,{'edgy': 0.814},0.6172133998483676
+Givenchy,Fall 2025,Feminine,"Black wrap dress, turtleneck",Black knee-high boots,"Fitted, sculptural","Leather sleeves, wrap detail on trousers",,{},0.581071124380289
+Givenchy,Fall 2025,Feminine,Black asymmetric dress,Black knee-high boots,"Slim, tailored",Contrasting textures with sleek boots,"edgy, modern","{'edgy': 0.518, 'modern': 0.552}",0.5776275449894603

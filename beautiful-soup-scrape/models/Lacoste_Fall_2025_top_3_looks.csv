@@ -1,0 +1,4 @@
+Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,Notes,Predicted Styles,Confidence Scores,Look Confidence
+Lacoste,Fall 2025,Masculine,"Gray turtleneck sweater, gray sweatpants",,"Relaxed, cozy","Monochrome, tonal layering","casual, sporty","{'casual': 0.835, 'sporty': 0.929}",0.7989614502652886
+Lacoste,Fall 2025,Masculine,"Striped sweater, black jacket, white pants","Beanie, boots","Casual, relaxed",Soft tailoring with a relaxed fit,"casual, sporty","{'casual': 0.776, 'sporty': 0.958}",0.7715167498104597
+Lacoste,Fall 2025,Masculine,"Gray turtleneck sweater, gray sweatpants",Gray gloves,"Relaxed, draped","Textured knit, tonal layering","casual, sporty","{'casual': 0.892, 'sporty': 0.643}",0.6852974856641607

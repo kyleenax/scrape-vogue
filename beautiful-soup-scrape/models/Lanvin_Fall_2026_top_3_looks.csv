@@ -1,0 +1,4 @@
+Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,Notes,Predicted Styles,Confidence Scores,Look Confidence
+Lanvin,Fall 2026,Feminine,"Black sleeveless blouse, black pencil skirt","Sunglasses, hoop earrings","Structured, cinched waist",Monochrome look with emphasis on waist,chic,{'chic': 0.74},0.6802550065846857
+Lanvin,Fall 2026,Feminine,"Beige suit, matching shirt",Black ankle strap heels,"Sleek, fitted","Clean lines, understated design",,{},0.6761234037828132
+Lanvin,Fall 2026,Feminine,Black structured coat dress,"Black gloves, black belt, black boots","Structured, sleek",Monochrome look with emphasis on waist,,{},0.6469804612643373

@@ -1,0 +1,4 @@
+Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,Notes,Predicted Styles,Confidence Scores,Look Confidence
+Carolina Herrera,Spring 2026,Feminine,Gray patterned trench coat,"Sunglasses, bracelet","Straight, sleeveless","Puffed sleeves, cinched waist",,{},0.6172133998483678
+Carolina Herrera,Spring 2026,Feminine,"Striped sleeveless blouse, gray pleated skirt","Large pearl hoop earrings, polka dot shoes","Straight, sleeveless","High-waisted skirt, vertical stripes",chic,{'chic': 0.65},0.6172133998483678
+Carolina Herrera,Spring 2026,Masculine,Pink floral dress,"Sunglasses, long necklace",A-line,"Three-quarter sleeves, floral print",,{},0.6172133998483676

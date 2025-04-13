@@ -1,0 +1,4 @@
+Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,Notes,Predicted Styles,Confidence Scores,Look Confidence
+Lacoste,Fall 2026,Masculine,"Gray sweater, gray pants","Sunglasses, gray scarf, gray gloves, black boots","Oversized, relaxed","Chunky knit, oversized scarf","casual, cozy, sporty","{'casual': 0.5, 'cozy': 0.593, 'sporty': 0.552}",0.6495611130924189
+Lacoste,Fall 2026,Androgynous,"White oversized coat, gray leggings","White belt, white shoes","Oversized, layered",Textured knitwear,"casual, sporty","{'casual': 0.726, 'sporty': 0.791}",0.6357877369287378
+Lacoste,Fall 2026,Feminine,"Grey blazer, grey hoodie, beige trousers",White belt,"Relaxed, draped",Dark tones with a mix of textures,"casual, sporty","{'casual': 0.761, 'sporty': 0.545}",0.6267213609493455
