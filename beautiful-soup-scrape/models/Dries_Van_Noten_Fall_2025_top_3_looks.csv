@@ -1,0 +1,4 @@
+Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,Notes,Predicted Styles,Confidence Scores,Look Confidence
+Dries Van Noten,Fall 2025,Feminine,"Black blazer, black pants","Brown shoes, maroon socks","Straight, streamlined","High neckline, subtle pattern",,{},0.799858368864433
+Dries Van Noten,Fall 2025,Feminine,Multicolored geometric dress,White boots,"Oversized coat, tailored pants","Textured fabric, hands in pockets",,{},0.6172133998483678
+Dries Van Noten,Fall 2025,Feminine,Black embroidered coat,Gold heels,"Oversized, structured",Geometric pattern adds visual interest,elegant,{'elegant': 0.646},0.6132486927000721

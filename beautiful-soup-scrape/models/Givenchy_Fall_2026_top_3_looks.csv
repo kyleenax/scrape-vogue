@@ -1,0 +1,4 @@
+Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,Notes,Predicted Styles,Confidence Scores,Look Confidence
+Givenchy,Fall 2026,Feminine,Dark brown asymmetric dress,"Feathered wrist cuff, feathered shoes","Long, tailored","High slit, asymmetric shoulder",,{},0.7511617923298082
+Givenchy,Fall 2026,Feminine,Black long coat,"Feathered wrist cuff, feathered shoes","Fitted, floor-length","High collar, sleek lines",,{},0.7461766130568747
+Givenchy,Fall 2026,Feminine,Beige dress with black leather sleeves,Thigh-high leather boots,"Structured, relaxed","Strong shoulders, sleek leather",edgy,{'edgy': 0.691},0.7173981225542613

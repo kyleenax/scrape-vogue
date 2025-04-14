@@ -1,0 +1,4 @@
+Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,Notes,Predicted Styles,Confidence Scores,Look Confidence
+Valentino,Spring 2025,Feminine,Black and pink striped dress with geometric patterns,"Gold earrings, small clutch","Flowy, A-line","Monochrome look, subtle embellishments",elegant,{'elegant': 0.646},0.6937473501161362
+Valentino,Spring 2025,Feminine,Embellished dress,Statement bracelets,"Straight, relaxed","Sheer fabric, floral embroidery",,{},0.6216033428191925
+Valentino,Spring 2025,Feminine,Polka dot jacket and shorts,Metallic heels,"Straight, relaxed",Asymmetrical hemline on top,,{},0.6172133998483676
