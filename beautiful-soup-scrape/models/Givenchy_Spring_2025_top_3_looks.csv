@@ -1,4 +1,0 @@
-Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,Notes,Predicted Styles,Confidence Scores,Look Confidence
-Givenchy,Spring 2025,Androgynous,"White lace dress, draped top",White lace-up boots,"Classic, fitted","Intricate lace details, soft draping",romantic,{'romantic': 0.696},0.6172133998483678
-Givenchy,Spring 2025,Feminine,"Black oversized coat, black trousers","Black textured handbag, red shoes","Fitted, knee-length",Contrasting black and white,,{},0.5656263075237044
-Givenchy,Spring 2025,Feminine,"Black satin robe, lace top, trousers",,"Classic, fitted","Intricate lace details, soft draping",elegant,{'elegant': 0.508},0.5536007796769515

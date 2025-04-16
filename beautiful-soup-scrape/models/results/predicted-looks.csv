@@ -1,6 +1,0 @@
-Gender,Season,Confidence,Garments,Accessories,Silhouette,Style Keywords,Notes
-Feminine,Fall,0.0466,"black pants, black tights",Black gloves,"Fitted, layered","Chic, modern","Contrasting textures, Mix of textures"
-Feminine,Spring,0.0419,"white shorts, white shirt",Sunglasses,"A-line, Fitted","modern, Minimalist","Textured fabric, Sheer fabric"
-Masculine,Fall,0.0646,"white shirt, black trousers, black pants",White sneakers,"Relaxed, layered","Casual, Sporty","Contrasting textures, Mix of textures"
-Masculine,Spring,0.0714,"white shirt, white trousers, white pants",White sneakers,"Relaxed, Tailored","modern, Casual","clean lines, Green and white color palette"
-Neutral,Fall,0.1206,"green cargo pants, white pants","gloves, White headpiece","layered, Fitted","Avant-garde, conceptual","Intricate textures, monochrome"

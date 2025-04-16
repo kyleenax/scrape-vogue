@@ -1,4 +1,0 @@
-Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,Notes,Predicted Styles,Confidence Scores,Look Confidence
-Carolina Herrera,Spring 2025,Feminine,Black and white strapless gown,,Tailored,"Puffed sleeves, cinched waist",elegant,{'elegant': 0.632},0.6902391147487119
-Carolina Herrera,Spring 2025,Feminine,Black and white strapless gown,Gold belt,Straight,"Bold floral print, color contrast",,{},0.6779306425531951
-Carolina Herrera,Spring 2025,Feminine,Black dress with white ruffled sleeves,"Black sunglasses, bracelet, belt",Tailored,"Zipper details, cap sleeves",chic,{'chic': 0.519},0.6566708745813302

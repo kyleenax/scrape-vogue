@@ -1,4 +1,0 @@
-Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,Notes,Predicted Styles,Confidence Scores,Look Confidence
-Chocheng,Fall 2025,Feminine,"Red blazer, red cropped trousers, red top","Black wide-brim hat, red shoes","A-line, structured","Textured fabric, statement accessories",bold,{'bold': 0.717},0.5388984175310272
-Chocheng,Fall 2025,Feminine,"Sleeveless black coat, pleated skirt","Red hat, red earrings","A-line, tailored",Bright color contrast with oversized hat,,{},0.5032496868721609
-Chocheng,Fall 2025,Feminine,"Striped sleeveless top, black pants","Red statement earrings, black hat","A-line, structured","Button detailing, tailored fit",chic,{'chic': 0.542},0.4869729552977783

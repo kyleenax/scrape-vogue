@@ -1,4 +1,0 @@
-Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,Notes,Predicted Styles,Confidence Scores,Look Confidence
-Lacoste,Spring 2026,Feminine,White romper,White sandals,"Relaxed, flowing","Deep V-neck, sporty elegance",sporty,{'sporty': 0.655},0.6983751835817397
-Lacoste,Spring 2026,Masculine,"Striped polo shirt, navy wide-leg pants",Clutch,"Relaxed, loose","Color-blocking, casual fit",sporty,{'sporty': 0.806},0.6666666666666669
-Lacoste,Spring 2026,Masculine,"White short-sleeve jacket, white trousers, white shirt","White headband, black sneakers","Loose, flowing","Contrasting stripes, clean lines",casual,{'casual': 0.681},0.6327543315440203

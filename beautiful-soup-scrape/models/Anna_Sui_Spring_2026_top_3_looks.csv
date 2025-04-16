@@ -1,4 +1,0 @@
-Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,Notes,Predicted Styles,Confidence Scores,Look Confidence
-Anna Sui,Spring 2026,Feminine,"Gingham dress with lace, metallic jacket","Floral necklace, headband, lace-up boots",Playful,Intricate lace detailing,,{},0.6560213546440214
-Anna Sui,Spring 2026,Feminine,"Purple knit sweater, embellished mini skirt","Layered necklaces, large handbag","Fitted, layered","Pastel colors, layered textures",eclectic,{'eclectic': 0.504},0.6172133998483676
-Anna Sui,Spring 2026,Feminine,"Embellished crop top, wide-leg pants","Crochet hat, crossbody bag","Tailored, structured","Rich colors, intricate patterns",bohemian,{'bohemian': 0.589},0.6024378545971723

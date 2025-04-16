@@ -1,4 +1,0 @@
-Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,Notes,Predicted Styles,Confidence Scores,Look Confidence
-Lanvin,Fall 2025,Feminine,Strapless printed dress with feathered skirt,Navy boots,"Slim, knee-length",Simple and classic design,elegant,{'elegant': 0.595},0.6797732960008299
-Lanvin,Fall 2025,Feminine,Cream coat with pink feather detail,"Black gloves, black belt, black ankle boots","Structured bodice, voluminous skirt","Monochrome, sleek lines",minimalist,{'minimalist': 0.63},0.6485748904719391
-Lanvin,Fall 2025,Feminine,Navy sleeveless dress,"Black gloves, black belt, black boots","Fitted, streamlined","Monochrome look, clean lines","minimalist, modern","{'minimalist': 0.867, 'modern': 0.611}",0.6393459943584446

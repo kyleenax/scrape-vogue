@@ -1,4 +1,0 @@
-Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,Notes,Predicted Styles,Confidence Scores,Look Confidence
-Dries Van Noten,Fall 2026,Feminine,"Black cardigan, white shirt, gray shorts",Brown shoes,"Layered, relaxed","Bold print, rolled sleeves",casual,{'casual': 0.555},0.6254249078681864
-Dries Van Noten,Fall 2026,Masculine,"Navy oversized blazer, tan turtleneck, white slip dress",Brown belt,"Layered, relaxed","Playful stripes, dynamic movement",casual,{'casual': 0.595},0.5506825802257724
-Dries Van Noten,Fall 2026,Feminine,"Black double-breasted jacket, patterned knee-length skirt",Blue heels,"Structured, voluminous","Classic tailoring, belt accent",elegant,{'elegant': 0.541},0.5417744544615251
