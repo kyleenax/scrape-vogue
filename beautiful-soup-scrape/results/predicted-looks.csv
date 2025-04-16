@@ -1,6 +1,6 @@
 Gender,Season,Confidence,Garments,Accessories,Silhouette,Style Keywords,Notes
 Feminine,Fall,0.8333,"Printed dress, floral mini dress",Black platform heels,"flowing skirt, layered","modern, polished","V-neckline, bold accessories"
 Feminine,Spring,0.9444,"Navy sleeveless blazer, orange top",Gold bracelet,"casual, Fitted","Futuristic, Playful","Colorful crochet detail on top, Abstract print"
-Masculine,Fall,0.5463,"denim shorts over brown pants, white shirt",Brown shoes,"Loose, cocoon","retro, Classic","Drawstring details, Layered outerwear"
-Masculine,Spring,0.95,"black trousers, black trousers, Black coat",brown loafers,"layered, layered","contemporary, Retro","bold pattern, bold pattern"
-Neutral,Fall,0.4625,"white pants, Patterned coat","layered necklaces, wrapped headpiece","fitted, layered","monochrome, Minimalist","structured layers, Textured fur"
+Masculine,Fall,0.7315,"white shirt, Gray suit",black boots with blue soles,"Tailored, Slim","Classic, Streetwear","casual elegance, monochrome palette"
+Masculine,Spring,0.9,"black trousers, light trousers, White shirt",Black shoes,"Relaxed, layered","androgynous, Retro","Matching set, Subtle pattern"
+Neutral,Fall,0.4042,"white shirt, pleated skirt","circular pendant, headpiece","Straight, voluminous","monochrome, retro","All white, oversized scarf"
