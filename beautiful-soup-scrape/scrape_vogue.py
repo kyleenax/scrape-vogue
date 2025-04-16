@@ -1,7 +1,11 @@
 from playwright.sync_api import sync_playwright
 import pandas as pd
 
-# ✅ Define the list of fashion shows
+"""
+This script was used to scrape the names of all the brands from each year on the vogue site.
+"""
+
+#Define the list of fashion shows
 FASHION_SHOWS = [
     "fall-1999-ready-to-wear",
     "spring-1999-ready-to-wear",
@@ -37,20 +41,20 @@ def scrape_vogue_shows():
 
         for show in FASHION_SHOWS:
             show_url = BASE_URL + show
-            print(f"🔍 Visiting: {show_url}")
+            print(f"Visiting: {show_url}")
 
-            # ✅ Visit the show page
+            #Visit the show page
             page.goto(show_url, wait_until="domcontentloaded")
 
-            # ✅ Save only the season and URL
+            #Save only the season and URL
             fashion_data.append({"season": show.replace("-", " ").title(), "url": show_url})
 
         browser.close()
 
-    # ✅ Save results to CSV (only season and URL)
+    #Save results to CSV (only season and URL)
     df = pd.DataFrame(fashion_data)
     df.to_csv("v4.csv", index=False)
-    print("✅ Scraping completed! Data saved to `v4.csv`")
+    print("Scraping completed! Data saved to `v4.csv`")
 
 # Run the scraper
 scrape_vogue_shows()

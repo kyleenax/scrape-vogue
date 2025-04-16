@@ -22,7 +22,7 @@ def scrape_images_from_url(url):
     try:
         response = requests.get(url, headers={"User-Agent": "Mozilla/5.0"})
         if response.status_code != 200:
-            print(f"❌ Failed to access {url}")
+            print(f"Failed to access {url}")
             return []
 
         soup = BeautifulSoup(response.text, 'html.parser')
@@ -37,7 +37,7 @@ def scrape_images_from_url(url):
         return image_urls
 
     except Exception as e:
-        print(f"❌ Error scraping {url}: {e}")
+        print(f"Error scraping {url}: {e}")
         return []
 
 def filter_valid_image_urls(image_urls):
@@ -89,7 +89,7 @@ def analyze_images_batch(image_urls, source_url):
         return response.choices[0].message.content.strip()
 
     except Exception as e:
-        print(f"❌ Error analyzing image batch: {e}")
+        print(f"Error analyzing image batch: {e}")
         return None
 
 def save_csv_by_designer(image_data, output_dir):
@@ -108,7 +108,7 @@ def save_csv_by_designer(image_data, output_dir):
             df = pd.concat([existing, df], ignore_index=True)
 
         df.to_csv(filepath, index=False)
-        print(f"✅ Appended {len(records)} rows to {filepath}")
+        print(f"Appended {len(records)} rows to {filepath}")
 
 # Main runner
 input_csv = "tidy_sampled_v3.csv"

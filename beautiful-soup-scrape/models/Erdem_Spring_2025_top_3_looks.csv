@@ -1,4 +1,0 @@
-Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,Notes,Predicted Styles,Confidence Scores,Look Confidence
-Erdem,Spring 2025,Feminine,Floral lace dress with sheer sleeves,Ankle-tie shoes,"Fitted, pencil","Dramatic print, delicate straps",floral,{'floral': 0.502},0.6666666666666669
-Erdem,Spring 2025,Feminine,Floral lace dress with sheer sleeves,Floral lace gloves,"Column, off-shoulder",Contrasting textures with lace and snake print,"floral, romantic","{'floral': 0.649, 'romantic': 0.695}",0.6397435811416365
-Erdem,Spring 2025,Feminine,"Green embroidered jacket, matching skirt, white high-neck blouse","Black gloves, headband, earrings","Flowy, layered",Delicate embroidery on a pastel palette,,{},0.5360304106760706

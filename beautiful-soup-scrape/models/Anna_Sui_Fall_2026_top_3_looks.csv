@@ -1,4 +1,0 @@
-Designer,Season,Gender Presentation,Garments,Accessories,Silhouette,Notes,Predicted Styles,Confidence Scores,Look Confidence
-Anna Sui,Fall 2026,Feminine,Black floral dress with fringe details,"Feathered headpiece, brooch","Layered, eclectic","Fringe adds movement, floral pattern",,{},0.7212289606705214
-Anna Sui,Fall 2026,Feminine,"Red blazer with black lapels, graphic t-shirt, red patterned pants","Red necklace, tassel accessory","Flowy, layered","Vibrant patterns, knee-high boots","bohemian, eclectic","{'bohemian': 0.587, 'eclectic': 0.595}",0.6666666666666669
-Anna Sui,Fall 2026,Feminine,"Black velvet coat, lace blouse, black pants","Red knee-high boots, blue fringe bag","Wide-leg, cropped","Textured fabrics, mixed patterns","bohemian, eclectic","{'bohemian': 0.712, 'eclectic': 0.517}",0.6609970226337764

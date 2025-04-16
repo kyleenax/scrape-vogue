@@ -1,1 +1,5 @@
-# scape-vogue
+# scrape-vogue
+Although the title of this repo is scrape vogue, this repo contains all of the code for our Trends in Fashion project, not just the
+web scraping portion. In this repo, we first scraped all of the names of the brands from each year from the official Vogue site. After that, we then modified the url to go to each brand in each year, for example fall 2012 Miu Miu, and then directly input that into the chat 4o API to generate a description of the looks on that page for each brand. We soon found out that there simply way too many brands to go through for each year between 1990-2024, and so we decided that we would narrow the years down and only sample 80 brands from each year. 
+
+We then wrote a script to randomly select 40 brands from each season and create it into new CSVs, and then we combined them all together into the combined_sorted_fashion.csv. We then used this CSV to perform the modeling for our look predictions. The model we used was updated_model.py And the looks that we predicted are located in the results folder in the predicted-looks.csv.

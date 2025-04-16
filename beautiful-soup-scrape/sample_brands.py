@@ -1,6 +1,11 @@
 import pandas as pd
 import random
 
+"""
+This script was used to randomly sample 40 brands frmo each season, so we could have 80 brands from each year instead
+of scraping all brands from all years.
+"""
+
 # Load the dataset (update filename if needed)
 df = pd.read_csv('v4.csv')
 
