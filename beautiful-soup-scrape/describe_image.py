@@ -8,7 +8,7 @@ from PIL import Image
 from io import BytesIO, StringIO
 from openai import OpenAI
 
-client = OpenAI(api_key="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")  # Replace with your actual key
+client = OpenAI(api_key="key")  # Replace with API key!!
 
 # Create output directory if it doesn't exist
 output_dir = "brand_csvs"
